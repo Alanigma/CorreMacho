@@ -38,14 +38,14 @@ namespace Game.Player
             m_groundCheck.m_TriggerEvents.OnTriggerEnterRemoveListner(EnterGround);
         }
 
-
-        void JumpInput(InputAction.CallbackContext context)
+        void JumpInput(InputAction.CallbackContext context) => JumpInput(context.phase);
+        void JumpInput(InputActionPhase _Phase)
         {
-            if (context.performed)
+            if (_Phase == InputActionPhase.Performed)
             {
                 StartJump();
             }
-            if (context.canceled)
+            if (_Phase == InputActionPhase.Canceled)
             {
                 m_jumpBufferingCurrentTime = 0;
                 CancelJump();
@@ -54,6 +54,16 @@ namespace Game.Player
 
         private void Update()
         {
+
+            if (Input.GetMouseButtonDown(0))
+            {
+                JumpInput(InputActionPhase.Performed);
+            }
+            if (Input.GetMouseButtonUp(0))
+            {
+                JumpInput(InputActionPhase.Canceled);
+            }
+
             Jump();
             JumpBuffering();
         }
