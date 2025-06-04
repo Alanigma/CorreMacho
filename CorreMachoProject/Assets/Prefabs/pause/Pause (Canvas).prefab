@@ -1124,14 +1124,10 @@ MonoBehaviour:
   m_MuteSFX: {fileID: 6951174219626659777}
   m_MusicSlider: {fileID: 7296142661561871463}
   m_SFXSlider: {fileID: 6824442750636055228}
-  m_AudioMixer: {fileID: 0}
+  m_AudioMixer: {fileID: 24100000, guid: 170ed6de2d5d513469841bf5911fdf8b, type: 2}
   m_CameraShake: {fileID: 2469339226901847881}
-  m_AutoAim: {fileID: 0}
-  m_AutoShoot: {fileID: 0}
-  m_DamageText: {fileID: 0}
   m_HighContrast: {fileID: 4910013544149012676}
   m_Daltonism: {fileID: 3930816040862610096}
-  m_Lifebar: {fileID: 0}
   m_ConfigurationPanel: {fileID: 0}
 --- !u!114 &5065867564322359953
 MonoBehaviour:
