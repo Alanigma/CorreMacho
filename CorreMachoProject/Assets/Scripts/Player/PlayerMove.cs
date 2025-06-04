@@ -96,7 +96,7 @@ namespace Game.Player
         {
             if (m_currentJumpTime > 0)
             {
-                m_rig.velocity = Vector3.up * m_jumpForce;
+                m_rig.linearVelocity = Vector3.up * m_jumpForce;
                 m_currentJumpTime -= Time.deltaTime;
             }
         }
