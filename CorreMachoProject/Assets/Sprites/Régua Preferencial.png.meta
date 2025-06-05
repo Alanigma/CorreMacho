@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: fc72f4e4fe26a4144bf1233974b66358
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4837130173857820553
+    second: "R\xE9gua Preferencial_0"
+  - first:
+      213: 6810075052663458214
+    second: "R\xE9gua Preferencial_1"
+  - first:
+      213: 2105548257566607095
+    second: "R\xE9gua Preferencial_2"
+  - first:
+      213: -5354206647964719742
+    second: "R\xE9gua Preferencial_3"
+  - first:
+      213: 6094311053268103136
+    second: "R\xE9gua Preferencial_4"
+  - first:
+      213: -5298825835617454829
+    second: "R\xE9gua Preferencial_5"
+  - first:
+      213: -1264786157184775005
+    second: "R\xE9gua Preferencial_6"
+  - first:
+      213: -7169190178417726345
+    second: "R\xE9gua Preferencial_7"
+  - first:
+      213: 6496601457537690976
+    second: "R\xE9gua Preferencial_8"
+  - first:
+      213: -3167817824818500676
+    second: "R\xE9gua Preferencial_9"
+  - first:
+      213: -4234413188641317814
+    second: "R\xE9gua Preferencial_10"
+  - first:
+      213: -2531457295583577356
+    second: "R\xE9gua Preferencial_11"
+  - first:
+      213: -2558936412122654226
+    second: "R\xE9gua Preferencial_12"
+  - first:
+      213: 4908793198215233559
+    second: "R\xE9gua Preferencial_13"
+  - first:
+      213: -1078460252119113435
+    second: "R\xE9gua Preferencial_14"
+  - first:
+      213: -3795630414312824621
+    second: "R\xE9gua Preferencial_15"
+  - first:
+      213: -1525442793952991778
+    second: "R\xE9gua Preferencial_16"
+  - first:
+      213: -5894549414474459242
+    second: "R\xE9gua Preferencial_17"
+  - first:
+      213: -2588243227973568893
+    second: "R\xE9gua Preferencial_18"
+  - first:
+      213: 6345989027841247155
+    second: "R\xE9gua Preferencial_19"
+  - first:
+      213: 2476095086582302087
+    second: "R\xE9gua Preferencial_20"
+  - first:
+      213: 3692432564985553350
+    second: "R\xE9gua Preferencial_21"
+  - first:
+      213: 4060290618500487350
+    second: "R\xE9gua Preferencial_22"
+  - first:
+      213: -5967400333691641257
+    second: "R\xE9gua Preferencial_23"
+  - first:
+      213: 5164054613425448655
+    second: "R\xE9gua Preferencial_24"
+  - first:
+      213: 8986985987826049873
+    second: "R\xE9gua Preferencial_25"
+  - first:
+      213: -5555935251636672215
+    second: "R\xE9gua Preferencial_26"
+  - first:
+      213: -6795741923621348794
+    second: "R\xE9gua Preferencial_27"
+  - first:
+      213: 2756359554072424148
+    second: "R\xE9gua Preferencial_28"
+  - first:
+      213: 2268357838377588203
+    second: "R\xE9gua Preferencial_29"
+  - first:
+      213: -6111549619412011254
+    second: "R\xE9gua Preferencial_30"
+  - first:
+      213: -8586070479734526806
+    second: "R\xE9gua Preferencial_31"
+  - first:
+      213: 3474684610669018671
+    second: "R\xE9gua Preferencial_32"
+  - first:
+      213: -4200771957831770119
+    second: "R\xE9gua Preferencial_33"
+  - first:
+      213: 7059432358699553789
+    second: "R\xE9gua Preferencial_34"
+  - first:
+      213: 6457540925425010809
+    second: "R\xE9gua Preferencial_35"
+  - first:
+      213: 6865223109092095251
+    second: "R\xE9gua Preferencial_36"
+  - first:
+      213: 3014912708904299058
+    second: "R\xE9gua Preferencial_37"
+  - first:
+      213: -5440953171444487014
+    second: "R\xE9gua Preferencial_38"
+  - first:
+      213: 7275760927526647907
+    second: "R\xE9gua Preferencial_39"
+  - first:
+      213: 4348190564206381390
+    second: "R\xE9gua Preferencial_40"
+  - first:
+      213: -5326007536059849996
+    second: "R\xE9gua Preferencial_41"
+  - first:
+      213: 5923598720714219100
+    second: "R\xE9gua Preferencial_42"
+  - first:
+      213: 6747751798978987236
+    second: "R\xE9gua Preferencial_43"
+  - first:
+      213: -4767126918240451046
+    second: "R\xE9gua Preferencial_44"
+  - first:
+      213: -6366989358411628680
+    second: "R\xE9gua Preferencial_45"
+  - first:
+      213: 3127512804539386185
+    second: "R\xE9gua Preferencial_46"
+  - first:
+      213: 8239504100293585704
+    second: "R\xE9gua Preferencial_47"
+  - first:
+      213: -3493927736213400678
+    second: "R\xE9gua Preferencial_48"
+  - first:
+      213: -2305165628279712395
+    second: "R\xE9gua Preferencial_49"
+  - first:
+      213: -5661369765954645599
+    second: "R\xE9gua Preferencial_50"
+  - first:
+      213: -5427142234007095639
+    second: "R\xE9gua Preferencial_51"
+  - first:
+      213: -5902316310905205928
+    second: "R\xE9gua Preferencial_52"
+  - first:
+      213: 5877621486414805824
+    second: "R\xE9gua Preferencial_53"
+  - first:
+      213: 7243499185496156841
+    second: "R\xE9gua Preferencial_54"
+  - first:
+      213: -3505576233248366427
+    second: "R\xE9gua Preferencial_55"
+  - first:
+      213: -8649453291074156332
+    second: "R\xE9gua Preferencial_56"
+  - first:
+      213: 7680081957725174153
+    second: "R\xE9gua Preferencial_57"
+  - first:
+      213: 186494657939334157
+    second: "R\xE9gua Preferencial_58"
+  - first:
+      213: -2727567170075229349
+    second: "R\xE9gua Preferencial_59"
+  - first:
+      213: 7611056790509074272
+    second: "R\xE9gua Preferencial_60"
+  - first:
+      213: -8543202874943443236
+    second: "R\xE9gua Preferencial_61"
+  - first:
+      213: 5948009870592082585
+    second: "R\xE9gua Preferencial_62"
+  - first:
+      213: -5525896933213226906
+    second: "R\xE9gua Preferencial_63"
+  - first:
+      213: -8314582352967850229
+    second: "R\xE9gua Preferencial_64"
+  - first:
+      213: -4840298690429696392
+    second: "R\xE9gua Preferencial_65"
+  - first:
+      213: 414569738304119894
+    second: "R\xE9gua Preferencial_66"
+  - first:
+      213: -2746329521174339268
+    second: "R\xE9gua Preferencial_67"
+  - first:
+      213: 5226058094399801519
+    second: "R\xE9gua Preferencial_68"
+  - first:
+      213: 5815306781533124616
+    second: "R\xE9gua Preferencial_69"
+  - first:
+      213: 8965385573500702674
+    second: "R\xE9gua Preferencial_70"
+  - first:
+      213: -6918323839009368036
+    second: "R\xE9gua Preferencial_71"
+  - first:
+      213: 4901384263805535427
+    second: "R\xE9gua Preferencial_72"
+  - first:
+      213: 1948853828365379168
+    second: "R\xE9gua Preferencial_73"
+  - first:
+      213: 4131416279412304063
+    second: "R\xE9gua Preferencial_74"
+  - first:
+      213: 2765560556863174103
+    second: "R\xE9gua Preferencial_75"
+  - first:
+      213: -5215300621981848823
+    second: "R\xE9gua Preferencial_76"
+  - first:
+      213: 4212446740206834059
+    second: "R\xE9gua Preferencial_77"
+  - first:
+      213: -7357384662297780653
+    second: "R\xE9gua Preferencial_78"
+  - first:
+      213: 5659753988442246580
+    second: "R\xE9gua Preferencial_79"
+  - first:
+      213: 6915645793338365851
+    second: "R\xE9gua Preferencial_80"
+  - first:
+      213: 5513354645797299889
+    second: "R\xE9gua Preferencial_81"
+  - first:
+      213: 6653251250328600448
+    second: "R\xE9gua Preferencial_82"
+  - first:
+      213: -2612615751513843044
+    second: "R\xE9gua Preferencial_83"
+  - first:
+      213: 4017560940098719397
+    second: "R\xE9gua Preferencial_84"
+  - first:
+      213: -7806583864842754061
+    second: "R\xE9gua Preferencial_85"
+  - first:
+      213: 6990932253796359226
+    second: "R\xE9gua Preferencial_86"
+  - first:
+      213: 5117474839306790113
+    second: "R\xE9gua Preferencial_87"
+  - first:
+      213: 3576591928370146413
+    second: "R\xE9gua Preferencial_88"
+  - first:
+      213: 749934615539380607
+    second: "R\xE9gua Preferencial_89"
+  - first:
+      213: -912967585553147979
+    second: "R\xE9gua Preferencial_90"
+  - first:
+      213: -497100805591667815
+    second: "R\xE9gua Preferencial_91"
+  - first:
+      213: 9162578858519406198
+    second: "R\xE9gua Preferencial_92"
+  - first:
+      213: -6871908591488186304
+    second: "R\xE9gua Preferencial_93"
+  - first:
+      213: -4152931847145400867
+    second: "R\xE9gua Preferencial_94"
+  - first:
+      213: -6621489043118455777
+    second: "R\xE9gua Preferencial_95"
+  - first:
+      213: -8572352452141685664
+    second: "R\xE9gua Preferencial_96"
+  - first:
+      213: -7763498930879703771
+    second: "R\xE9gua Preferencial_97"
+  - first:
+      213: 4712590536779284064
+    second: "R\xE9gua Preferencial_98"
+  - first:
+      213: 4290599893108536201
+    second: "R\xE9gua Preferencial_99"
+  - first:
+      213: -8691626220053640020
+    second: "R\xE9gua Preferencial_100"
+  - first:
+      213: -4659335182176413602
+    second: "R\xE9gua Preferencial_101"
+  - first:
+      213: 2362739531010548279
+    second: "R\xE9gua Preferencial_102"
+  - first:
+      213: 8418499787621479965
+    second: "R\xE9gua Preferencial_103"
+  - first:
+      213: -739568499437045983
+    second: "R\xE9gua Preferencial_104"
+  - first:
+      213: -6601758205668804826
+    second: "R\xE9gua Preferencial_105"
+  - first:
+      213: -8795877184522317898
+    second: "R\xE9gua Preferencial_106"
+  - first:
+      213: -2166395440015272713
+    second: "R\xE9gua Preferencial_107"
+  - first:
+      213: 4199437934026826910
+    second: "R\xE9gua Preferencial_108"
+  - first:
+      213: 1842120506596991749
+    second: "R\xE9gua Preferencial_109"
+  - first:
+      213: -6733522094491612927
+    second: "R\xE9gua Preferencial_110"
+  - first:
+      213: -6321195242879567541
+    second: "R\xE9gua Preferencial_111"
+  - first:
+      213: -128388429248831752
+    second: "R\xE9gua Preferencial_112"
+  - first:
+      213: 4144545621372038415
+    second: "R\xE9gua Preferencial_113"
+  - first:
+      213: 6504278020887663193
+    second: "R\xE9gua Preferencial_114"
+  - first:
+      213: 4148663667040892144
+    second: "R\xE9gua Preferencial_115"
+  - first:
+      213: 2963775235708246347
+    second: "R\xE9gua Preferencial_116"
+  - first:
+      213: -3240908088110612980
+    second: "R\xE9gua Preferencial_117"
+  - first:
+      213: -1882481753736942388
+    second: "R\xE9gua Preferencial_118"
+  - first:
+      213: 2630159666519664050
+    second: "R\xE9gua Preferencial_119"
+  - first:
+      213: -4517725563895109859
+    second: "R\xE9gua Preferencial_120"
+  - first:
+      213: -8382714881235471507
+    second: "R\xE9gua Preferencial_121"
+  - first:
+      213: -3721623574258310206
+    second: "R\xE9gua Preferencial_122"
+  - first:
+      213: -5648447609552346705
+    second: "R\xE9gua Preferencial_123"
+  - first:
+      213: -3922724907647250155
+    second: "R\xE9gua Preferencial_124"
+  - first:
+      213: 4675945790526400266
+    second: "R\xE9gua Preferencial_125"
+  - first:
+      213: 3850273554890336061
+    second: "R\xE9gua Preferencial_126"
+  - first:
+      213: 4128965463595633880
+    second: "R\xE9gua Preferencial_127"
+  - first:
+      213: -6570390882896974854
+    second: "R\xE9gua Preferencial_128"
+  - first:
+      213: 5553291751882014229
+    second: "R\xE9gua Preferencial_129"
+  - first:
+      213: -1832619235151312108
+    second: "R\xE9gua Preferencial_130"
+  - first:
+      213: -8425694751841420524
+    second: "R\xE9gua Preferencial_131"
+  - first:
+      213: -835980612970354048
+    second: "R\xE9gua Preferencial_132"
+  - first:
+      213: -2795815985012712116
+    second: "R\xE9gua Preferencial_133"
+  - first:
+      213: 2218627655734607228
+    second: "R\xE9gua Preferencial_134"
+  - first:
+      213: -7463035896852401113
+    second: "R\xE9gua Preferencial_135"
+  - first:
+      213: -2449354433918424010
+    second: "R\xE9gua Preferencial_136"
+  - first:
+      213: -6762681815860056767
+    second: "R\xE9gua Preferencial_137"
+  - first:
+      213: 1529726453451970425
+    second: "R\xE9gua Preferencial_138"
+  - first:
+      213: 3568177894427544503
+    second: "R\xE9gua Preferencial_139"
+  - first:
+      213: 7148631161695118197
+    second: "R\xE9gua Preferencial_140"
+  - first:
+      213: 6766573764006920933
+    second: "R\xE9gua Preferencial_141"
+  - first:
+      213: -1232122303376459335
+    second: "R\xE9gua Preferencial_142"
+  - first:
+      213: 4554529166896507494
+    second: "R\xE9gua Preferencial_143"
+  - first:
+      213: 1710825648127234867
+    second: "R\xE9gua Preferencial_144"
+  - first:
+      213: 2748917819323451863
+    second: "R\xE9gua Preferencial_145"
+  - first:
+      213: -9171875083690776797
+    second: "R\xE9gua Preferencial_146"
+  - first:
+      213: 8522126453557978444
+    second: "R\xE9gua Preferencial_147"
+  - first:
+      213: 8319810924815810918
+    second: "R\xE9gua Preferencial_148"
+  - first:
+      213: 7011027130974132494
+    second: "R\xE9gua Preferencial_149"
+  - first:
+      213: -7975915971681209166
+    second: "R\xE9gua Preferencial_150"
+  - first:
+      213: 2720564153116718205
+    second: "R\xE9gua Preferencial_151"
+  - first:
+      213: 5891909597731026629
+    second: "R\xE9gua Preferencial_152"
+  - first:
+      213: 6208796736233293684
+    second: "R\xE9gua Preferencial_153"
+  - first:
+      213: -4645776377944100991
+    second: "R\xE9gua Preferencial_154"
+  - first:
+      213: -7149192687534157438
+    second: "R\xE9gua Preferencial_155"
+  - first:
+      213: -5078043060258852322
+    second: "R\xE9gua Preferencial_156"
+  - first:
+      213: -2709170631513528439
+    second: "R\xE9gua Preferencial_157"
+  - first:
+      213: 7929259926988240448
+    second: "R\xE9gua Preferencial_158"
+  - first:
+      213: 5267454742862901463
+    second: "R\xE9gua Preferencial_159"
+  - first:
+      213: 2340925738263870363
+    second: "R\xE9gua Preferencial_160"
+  - first:
+      213: -2731062756430947635
+    second: "R\xE9gua Preferencial_161"
+  - first:
+      213: -3729201989954143415
+    second: "R\xE9gua Preferencial_162"
+  - first:
+      213: 7544564444549799489
+    second: "R\xE9gua Preferencial_163"
+  - first:
+      213: -1341759541778727459
+    second: "R\xE9gua Preferencial_164"
+  - first:
+      213: 2975989432117021863
+    second: "R\xE9gua Preferencial_165"
+  - first:
+      213: 5476201168256417001
+    second: "R\xE9gua Preferencial_166"
+  - first:
+      213: -4973666338839751611
+    second: "R\xE9gua Preferencial_167"
+  - first:
+      213: -3505474681792457598
+    second: "R\xE9gua Preferencial_168"
+  - first:
+      213: -6852981435670445808
+    second: "R\xE9gua Preferencial_169"
+  - first:
+      213: -7337877364280789173
+    second: "R\xE9gua Preferencial_170"
+  - first:
+      213: 105037676760759170
+    second: "R\xE9gua Preferencial_171"
+  - first:
+      213: 2646597485694885769
+    second: "R\xE9gua Preferencial_172"
+  - first:
+      213: -715499245471130707
+    second: "R\xE9gua Preferencial_173"
+  - first:
+      213: 8195473216406219378
+    second: "R\xE9gua Preferencial_174"
+  - first:
+      213: 3000423267334562955
+    second: "R\xE9gua Preferencial_175"
+  - first:
+      213: -7086652279845205962
+    second: "R\xE9gua Preferencial_176"
+  - first:
+      213: -472133198930310827
+    second: "R\xE9gua Preferencial_177"
+  - first:
+      213: -7340977929733611500
+    second: "R\xE9gua Preferencial_178"
+  - first:
+      213: -6105986287761976435
+    second: "R\xE9gua Preferencial_179"
+  - first:
+      213: 7290681174764915181
+    second: "R\xE9gua Preferencial_180"
+  - first:
+      213: -5616991434905890416
+    second: "R\xE9gua Preferencial_181"
+  - first:
+      213: 5454236183561745817
+    second: "R\xE9gua Preferencial_182"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 263
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77091ee2cbf0fdcb0800000000000000
+      internalID: -4837130173857820553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_1"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 73
+        width: 326
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a941c7dd2f328e50800000000000000
+      internalID: 6810075052663458214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_2"
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 36
+        width: 370
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f643bd0cf8683d10800000000000000
+      internalID: 2105548257566607095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_3"
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 40
+        width: 8
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852706eb6902b5b0800000000000000
+      internalID: -5354206647964719742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_4"
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 384
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef28c82d97539450800000000000000
+      internalID: 6094311053268103136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_5"
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 384
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fb551af9c676b0800000000000000
+      internalID: -5298825835617454829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_6"
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 385
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac8b20f0b3927ee0800000000000000
+      internalID: -1264786157184775005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_7"
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 385
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2138448be18c90800000000000000
+      internalID: -7169190178417726345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_8"
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 385
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da1dbea90982a50800000000000000
+      internalID: 6496601457537690976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_9"
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 385
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbea8ed876a904d0800000000000000
+      internalID: -3167817824818500676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_10"
+      rect:
+        serializedVersion: 2
+        x: 4951
+        y: 384
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1ecac3a75c35c0800000000000000
+      internalID: -4234413188641317814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_11"
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 385
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa7bac70057edcd0800000000000000
+      internalID: -2531457295583577356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_12"
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 385
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9dd9814e4dc7cd0800000000000000
+      internalID: -2558936412122654226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_13"
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 385
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100977e7698f1440800000000000000
+      internalID: 4908793198215233559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_14"
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 385
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ef085d1a8801f0800000000000000
+      internalID: -1078460252119113435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_15"
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 385
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d027309f36335bc0800000000000000
+      internalID: -3795630414312824621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_16"
+      rect:
+        serializedVersion: 2
+        x: 5261
+        y: 385
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5a04d6cd984dae0800000000000000
+      internalID: -1525442793952991778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_17"
+      rect:
+        serializedVersion: 2
+        x: 5317
+        y: 385
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6975347c98a523ea0800000000000000
+      internalID: -5894549414474459242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_18"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 292
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386335c4f76b41cd0800000000000000
+      internalID: -2588243227973568893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_19"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 267
+        width: 646
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b70109f56b711850800000000000000
+      internalID: 6345989027841247155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_20"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 291
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78504d1cc5bdc5220800000000000000
+      internalID: 2476095086582302087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_21"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 291
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c16c01cad72e3330800000000000000
+      internalID: 3692432564985553350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_22"
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 292
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b892902ecc095830800000000000000
+      internalID: 4060290618500487350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_23"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 292
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75223cd53098f2da0800000000000000
+      internalID: -5967400333691641257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_24"
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 292
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e0f18f486aa740800000000000000
+      internalID: 5164054613425448655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_25"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 329
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153e8cd042038bc70800000000000000
+      internalID: 8986985987826049873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_26"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 291
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292023435a55e2b0800000000000000
+      internalID: -5555935251636672215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_27"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 283
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad151d9bca0b1a0800000000000000
+      internalID: -6795741923621348794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_28"
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 283
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deadbd196e804620800000000000000
+      internalID: 2756359554072424148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_29"
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 283
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be518fb8f63da7f10800000000000000
+      internalID: 2268357838377588203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_30"
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 283
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07f5c3600a6f2ba0800000000000000
+      internalID: -6111549619412011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_31"
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 284
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca4feb36628d880800000000000000
+      internalID: -8586070479734526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_32"
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 284
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e71756e3f883030800000000000000
+      internalID: 3474684610669018671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_33"
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 284
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd307392cd3b5c0800000000000000
+      internalID: -4200771957831770119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_34"
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 284
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df35f28e35428f160800000000000000
+      internalID: 7059432358699553789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_35"
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 284
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784186124bcd9950800000000000000
+      internalID: 6457540925425010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_36"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 276
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bc315b0c264f50800000000000000
+      internalID: 6865223109092095251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_37"
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 276
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2d03922f17d920800000000000000
+      internalID: 3014912708904299058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_38"
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 276
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c24800be9dd74b0800000000000000
+      internalID: -5440953171444487014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_39"
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 276
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36874e3d302b8f460800000000000000
+      internalID: 7275760927526647907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_40"
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 277
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e490a3bc740e75c30800000000000000
+      internalID: 4348190564206381390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_41"
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 277
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f269164d583616b0800000000000000
+      internalID: -5326007536059849996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_42"
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 277
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1124e6a9d43250800000000000000
+      internalID: 5923598720714219100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_43"
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 277
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e445a29284d4ad50800000000000000
+      internalID: 6747751798978987236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_44"
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 277
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16431f3353c7ddb0800000000000000
+      internalID: -4767126918240451046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_45"
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 111
+        width: 290
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fbe2b89e8e3a7a0800000000000000
+      internalID: -6366989358411628680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_46"
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494e015358276b20800000000000000
+      internalID: 3127512804539386185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_47"
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 309
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82baf5f0359985270800000000000000
+      internalID: 8239504100293585704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_48"
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 137
+        width: 688
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939d1c4c33138fc0800000000000000
+      internalID: -3493927736213400678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_49"
+      rect:
+        serializedVersion: 2
+        x: 5273
+        y: 137
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57592f903186200e0800000000000000
+      internalID: -2305165628279712395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_50"
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 261
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1132e6136ce61b0800000000000000
+      internalID: -5661369765954645599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_51"
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 261
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6bc7474eaeea4b0800000000000000
+      internalID: -5427142234007095639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_52"
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 261
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b40884692c61ea0800000000000000
+      internalID: -5902316310905205928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_53"
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 261
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b35f5d991819150800000000000000
+      internalID: 5877621486414805824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_54"
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 259
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa645aa124168460800000000000000
+      internalID: 7243499185496156841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_55"
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 261
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ed2c3df0b95fc0800000000000000
+      internalID: -3505576233248366427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_56"
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 261
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8013cfe08f6f780800000000000000
+      internalID: -8649453291074156332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_57"
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989781889d1259a60800000000000000
+      internalID: 7680081957725174153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_58"
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 261
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046bfe37ef869200800000000000000
+      internalID: 186494657939334157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_59"
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 261
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5306ae2c1cb52ad0800000000000000
+      internalID: -2727567170075229349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_60"
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 261
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0673e9b63d7ef9960800000000000000
+      internalID: 7611056790509074272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_61"
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 261
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde66e2cf32707980800000000000000
+      internalID: -8543202874943443236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_62"
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 261
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928821a6739b8250800000000000000
+      internalID: 5948009870592082585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_63"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668b76644021053b0800000000000000
+      internalID: -5525896933213226906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_64"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 173
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ae9b076bac9c80800000000000000
+      internalID: -8314582352967850229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_65"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 231
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876462e6cfdc3dcb0800000000000000
+      internalID: -4840298690429696392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_66"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 173
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546e320bf8d0c500800000000000000
+      internalID: 414569738304119894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_67"
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 173
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312c36e9d313e9d0800000000000000
+      internalID: -2746329521174339268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_68"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 173
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84144e520b68840800000000000000
+      internalID: 5226058094399801519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_69"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 183
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b33df4be14b050800000000000000
+      internalID: 5815306781533124616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_70"
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 182
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfcbeeada27b6c70800000000000000
+      internalID: 8965385573500702674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_71"
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 183
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18dabe8f1d2dff90800000000000000
+      internalID: -6918323839009368036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_72"
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 182
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c481dfe407350440800000000000000
+      internalID: 4901384263805535427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_73"
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 183
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e0ee3b38bb0b10800000000000000
+      internalID: 1948853828365379168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_74"
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 183
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e2a9873db55930800000000000000
+      internalID: 4131416279412304063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_75"
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 183
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d539a48cae316620800000000000000
+      internalID: 2765560556863174103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_76"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 162
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be5e557b78f97b0800000000000000
+      internalID: -5215300621981848823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_77"
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 161
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d741edfd957a30800000000000000
+      internalID: 4212446740206834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_78"
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 162
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e55d771a155e990800000000000000
+      internalID: -7357384662297780653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_79"
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 161
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd433d044c7b8e40800000000000000
+      internalID: 5659753988442246580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_80"
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 162
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979b58553f49ff50800000000000000
+      internalID: 6915645793338365851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_81"
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 162
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66f7fd6de538c40800000000000000
+      internalID: 5513354645797299889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_82"
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 162
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f724103c8155c50800000000000000
+      internalID: 6653251250328600448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_83"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 173
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a5d64f0df1ebbd0800000000000000
+      internalID: -2612615751513843044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_84"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 174
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae811a936e31c730800000000000000
+      internalID: 4017560940098719397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_85"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 174
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f760c2065179a390800000000000000
+      internalID: -7806583864842754061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_86"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 173
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5a5468d7c40160800000000000000
+      internalID: 6990932253796359226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_87"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 173
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e461e7b04ce40740800000000000000
+      internalID: 5117474839306790113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_88"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 174
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c2805c86b92a130800000000000000
+      internalID: 3576591928370146413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_89"
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 163
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717efb3f8d486a00800000000000000
+      internalID: 749934615539380607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_90"
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 177
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b798ab61dc7453f0800000000000000
+      internalID: -912967585553147979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_91"
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 177
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be5297371f919f0800000000000000
+      internalID: -497100805591667815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_92"
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 178
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ad882de4082f70800000000000000
+      internalID: 9162578858519406198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_93"
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 178
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04844638b8312a0a0800000000000000
+      internalID: -6871908591488186304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_94"
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 177
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5dd7afc72dd56c0800000000000000
+      internalID: -4152931847145400867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_95"
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 178
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1488c42ccebb14a0800000000000000
+      internalID: -6621489043118455777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_96"
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 178
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06465a0fcd2e80980800000000000000
+      internalID: -8572352452141685664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_97"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 160
+        width: 530
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5255acaead2824490800000000000000
+      internalID: -7763498930879703771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_98"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 118
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eb894ff1c766140800000000000000
+      internalID: 4712590536779284064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_99"
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 118
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9833016ced54b8b30800000000000000
+      internalID: 4290599893108536201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_100"
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 118
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4b39c004216780800000000000000
+      internalID: -8691626220053640020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_101"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 118
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5815e88657b65fb0800000000000000
+      internalID: -4659335182176413602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_102"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 118
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73228aac5132ac020800000000000000
+      internalID: 2362739531010548279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_103"
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 118
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1631e624f484d470800000000000000
+      internalID: 8418499787621479965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_104"
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 118
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1277cff3e568cb5f0800000000000000
+      internalID: -739568499437045983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_105"
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 118
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627371ab3e7d164a0800000000000000
+      internalID: -6601758205668804826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_106"
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 118
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf8590ad44cee580800000000000000
+      internalID: -8795877184522317898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_107"
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 118
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f41dda43da6fe1e0800000000000000
+      internalID: -2166395440015272713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_108"
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 118
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9428f92d86674a30800000000000000
+      internalID: 4199437934026826910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_109"
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 118
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032d2d37d6809910800000000000000
+      internalID: 1842120506596991749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_110"
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 118
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109459ea459bd82a0800000000000000
+      internalID: -6733522094491612927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_111"
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 118
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493640fa6a9648a0800000000000000
+      internalID: -6321195242879567541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_112"
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 118
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5a51676fd73ef0800000000000000
+      internalID: -128388429248831752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_113"
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 136
+        width: 602
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de74da842648930800000000000000
+      internalID: 4144545621372038415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_114"
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 113
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952d36b1666d34a50800000000000000
+      internalID: 6504278020887663193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_115"
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 113
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ba86ef93039930800000000000000
+      internalID: 4148663667040892144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_116"
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 88
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495d76cfd1712920800000000000000
+      internalID: 2963775235708246347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_117"
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 88
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef972d34bf503d0800000000000000
+      internalID: -3240908088110612980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_118"
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 89
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccea5c91d410e5e0800000000000000
+      internalID: -1882481753736942388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_119"
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 89
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5e6711844308420800000000000000
+      internalID: 2630159666519664050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_120"
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 89
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a45b1980dd41c0800000000000000
+      internalID: -4517725563895109859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_121"
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 89
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d633492aa3d9aab80800000000000000
+      internalID: -8382714881235471507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_122"
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 88
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32d94c3132a5cc0800000000000000
+      internalID: -3721623574258310206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_123"
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 89
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16a3c63deac91b0800000000000000
+      internalID: -5648447609552346705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_124"
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 88
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511db10ea7eaf89c0800000000000000
+      internalID: -3922724907647250155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_125"
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 89
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072f491ceb44e040800000000000000
+      internalID: 4675945790526400266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_126"
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 88
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a157066bee6530800000000000000
+      internalID: 3850273554890336061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_127"
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 89
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc497386380d4930800000000000000
+      internalID: 4128965463595633880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_128"
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 89
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe57dad4841d4a0800000000000000
+      internalID: -6570390882896974854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_129"
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 89
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eb80dfc61411d40800000000000000
+      internalID: 5553291751882014229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_130"
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 88
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b0248e38a3196e0800000000000000
+      internalID: -1832619235151312108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_131"
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 59
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b7e92b34be11b80800000000000000
+      internalID: -8425694751841420524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_132"
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 59
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae9cccf000664f0800000000000000
+      internalID: -835980612970354048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_133"
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 59
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d55fbac244339d0800000000000000
+      internalID: -2795815985012712116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_134"
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 59
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3bec19162ace10800000000000000
+      internalID: 2218627655734607228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_135"
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 93
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724bf168468fd6890800000000000000
+      internalID: -7463035896852401113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_136"
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 59
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca34d9e15220ed0800000000000000
+      internalID: -2449354433918424010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_137"
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 59
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14deaacf7b02622a0800000000000000
+      internalID: -6762681815860056767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_138"
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 59
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d585ca1eaa3510800000000000000
+      internalID: 1529726453451970425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_139"
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 59
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb41c4d3e6b48130800000000000000
+      internalID: 3568177894427544503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_140"
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 59
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573202f9a2a053360800000000000000
+      internalID: 7148631161695118197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_141"
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 59
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24c1eccf2b7ed50800000000000000
+      internalID: 6766573764006920933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_142"
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 59
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f86b0b4f96eee0800000000000000
+      internalID: -1232122303376459335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_143"
+      rect:
+        serializedVersion: 2
+        x: 5093
+        y: 59
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa5087520f43f30800000000000000
+      internalID: 4554529166896507494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_144"
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 59
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335045dcd21eb710800000000000000
+      internalID: 1710825648127234867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_145"
+      rect:
+        serializedVersion: 2
+        x: 5165
+        y: 59
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90489313e162620800000000000000
+      internalID: 2748917819323451863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_146"
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 59
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ea50c434f6b080800000000000000
+      internalID: -9171875083690776797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_147"
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 50
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45684b7bdca44670800000000000000
+      internalID: 8522126453557978444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_148"
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 59
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6618f04b4f7e57370800000000000000
+      internalID: 8319810924815810918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_149"
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 93
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d654970c2c4160800000000000000
+      internalID: 7011027130974132494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_150"
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 59
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b3959eaadf4190800000000000000
+      internalID: -7975915971681209166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_151"
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 61
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74fe2fdea261c520800000000000000
+      internalID: 2720564153116718205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_152"
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 62
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f87dff8444c150800000000000000
+      internalID: 5891909597731026629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_153"
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 61
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4774ac96cb31a2650800000000000000
+      internalID: 6208796736233293684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_154"
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 62
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fadb6aff2e68fb0800000000000000
+      internalID: -4645776377944100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_155"
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 62
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281d4b4f027f8cc90800000000000000
+      internalID: -7149192687534157438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_156"
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 62
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e123227cdba2789b0800000000000000
+      internalID: -5078043060258852322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_157"
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 62
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98727b81aa7176ad0800000000000000
+      internalID: -2709170631513528439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_158"
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 62
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046bfdf74e36a0e60800000000000000
+      internalID: 7929259926988240448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_159"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 62
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d03ac23e22c91940800000000000000
+      internalID: 5267454742862901463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_160"
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 62
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b79c26e83ac7020800000000000000
+      internalID: 2340925738263870363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_161"
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 62
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca52af84e0591ad0800000000000000
+      internalID: -2731062756430947635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_162"
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 62
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b7a1d5c863f3cc0800000000000000
+      internalID: -3729201989954143415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_163"
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 61
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ede66b36da3b860800000000000000
+      internalID: 7544564444549799489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_164"
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 62
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb9424ecc116de0800000000000000
+      internalID: -1341759541778727459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_165"
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 62
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc6acfe96dc4920800000000000000
+      internalID: 2975989432117021863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_166"
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 62
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb088c2ff5ffb40800000000000000
+      internalID: 5476201168256417001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_167"
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 61
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544932201dcf9fab0800000000000000
+      internalID: -4973666338839751611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_168"
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 20
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28492a6895d0a5fc0800000000000000
+      internalID: -3505474681792457598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_169"
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 20
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011448261b155e0a0800000000000000
+      internalID: -6852981435670445808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_170"
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f9a83a6f9a2a90800000000000000
+      internalID: -7337877364280789173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_171"
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 20
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7b53e53b257100800000000000000
+      internalID: 105037676760759170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_172"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 20
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1946146a9ab420800000000000000
+      internalID: 2646597485694885769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_173"
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 20
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab12a42a390216f0800000000000000
+      internalID: -715499245471130707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_174"
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 20
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aee16087b2cb170800000000000000
+      internalID: 8195473216406219378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_175"
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 20
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842b419015a3a920800000000000000
+      internalID: 3000423267334562955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_176"
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 20
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6384d155c4727ad90800000000000000
+      internalID: -7086652279845205962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_177"
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 20
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55907176b55a279f0800000000000000
+      internalID: -472133198930310827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_178"
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 20
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ee32977b9f1a90800000000000000
+      internalID: -7340977929733611500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_179"
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d839a8a72dd234ba0800000000000000
+      internalID: -6105986287761976435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_180"
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de98d7896e3bd2560800000000000000
+      internalID: 7290681174764915181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_181"
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 20
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d500dc007c02b0800000000000000
+      internalID: -5616991434905890416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE9gua Preferencial_182"
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b74249e651bb40800000000000000
+      internalID: 5454236183561745817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "R\xE9gua Preferencial_0": -4837130173857820553
+      "R\xE9gua Preferencial_1": 6810075052663458214
+      "R\xE9gua Preferencial_10": -4234413188641317814
+      "R\xE9gua Preferencial_100": -8691626220053640020
+      "R\xE9gua Preferencial_101": -4659335182176413602
+      "R\xE9gua Preferencial_102": 2362739531010548279
+      "R\xE9gua Preferencial_103": 8418499787621479965
+      "R\xE9gua Preferencial_104": -739568499437045983
+      "R\xE9gua Preferencial_105": -6601758205668804826
+      "R\xE9gua Preferencial_106": -8795877184522317898
+      "R\xE9gua Preferencial_107": -2166395440015272713
+      "R\xE9gua Preferencial_108": 4199437934026826910
+      "R\xE9gua Preferencial_109": 1842120506596991749
+      "R\xE9gua Preferencial_11": -2531457295583577356
+      "R\xE9gua Preferencial_110": -6733522094491612927
+      "R\xE9gua Preferencial_111": -6321195242879567541
+      "R\xE9gua Preferencial_112": -128388429248831752
+      "R\xE9gua Preferencial_113": 4144545621372038415
+      "R\xE9gua Preferencial_114": 6504278020887663193
+      "R\xE9gua Preferencial_115": 4148663667040892144
+      "R\xE9gua Preferencial_116": 2963775235708246347
+      "R\xE9gua Preferencial_117": -3240908088110612980
+      "R\xE9gua Preferencial_118": -1882481753736942388
+      "R\xE9gua Preferencial_119": 2630159666519664050
+      "R\xE9gua Preferencial_12": -2558936412122654226
+      "R\xE9gua Preferencial_120": -4517725563895109859
+      "R\xE9gua Preferencial_121": -8382714881235471507
+      "R\xE9gua Preferencial_122": -3721623574258310206
+      "R\xE9gua Preferencial_123": -5648447609552346705
+      "R\xE9gua Preferencial_124": -3922724907647250155
+      "R\xE9gua Preferencial_125": 4675945790526400266
+      "R\xE9gua Preferencial_126": 3850273554890336061
+      "R\xE9gua Preferencial_127": 4128965463595633880
+      "R\xE9gua Preferencial_128": -6570390882896974854
+      "R\xE9gua Preferencial_129": 5553291751882014229
+      "R\xE9gua Preferencial_13": 4908793198215233559
+      "R\xE9gua Preferencial_130": -1832619235151312108
+      "R\xE9gua Preferencial_131": -8425694751841420524
+      "R\xE9gua Preferencial_132": -835980612970354048
+      "R\xE9gua Preferencial_133": -2795815985012712116
+      "R\xE9gua Preferencial_134": 2218627655734607228
+      "R\xE9gua Preferencial_135": -7463035896852401113
+      "R\xE9gua Preferencial_136": -2449354433918424010
+      "R\xE9gua Preferencial_137": -6762681815860056767
+      "R\xE9gua Preferencial_138": 1529726453451970425
+      "R\xE9gua Preferencial_139": 3568177894427544503
+      "R\xE9gua Preferencial_14": -1078460252119113435
+      "R\xE9gua Preferencial_140": 7148631161695118197
+      "R\xE9gua Preferencial_141": 6766573764006920933
+      "R\xE9gua Preferencial_142": -1232122303376459335
+      "R\xE9gua Preferencial_143": 4554529166896507494
+      "R\xE9gua Preferencial_144": 1710825648127234867
+      "R\xE9gua Preferencial_145": 2748917819323451863
+      "R\xE9gua Preferencial_146": -9171875083690776797
+      "R\xE9gua Preferencial_147": 8522126453557978444
+      "R\xE9gua Preferencial_148": 8319810924815810918
+      "R\xE9gua Preferencial_149": 7011027130974132494
+      "R\xE9gua Preferencial_15": -3795630414312824621
+      "R\xE9gua Preferencial_150": -7975915971681209166
+      "R\xE9gua Preferencial_151": 2720564153116718205
+      "R\xE9gua Preferencial_152": 5891909597731026629
+      "R\xE9gua Preferencial_153": 6208796736233293684
+      "R\xE9gua Preferencial_154": -4645776377944100991
+      "R\xE9gua Preferencial_155": -7149192687534157438
+      "R\xE9gua Preferencial_156": -5078043060258852322
+      "R\xE9gua Preferencial_157": -2709170631513528439
+      "R\xE9gua Preferencial_158": 7929259926988240448
+      "R\xE9gua Preferencial_159": 5267454742862901463
+      "R\xE9gua Preferencial_16": -1525442793952991778
+      "R\xE9gua Preferencial_160": 2340925738263870363
+      "R\xE9gua Preferencial_161": -2731062756430947635
+      "R\xE9gua Preferencial_162": -3729201989954143415
+      "R\xE9gua Preferencial_163": 7544564444549799489
+      "R\xE9gua Preferencial_164": -1341759541778727459
+      "R\xE9gua Preferencial_165": 2975989432117021863
+      "R\xE9gua Preferencial_166": 5476201168256417001
+      "R\xE9gua Preferencial_167": -4973666338839751611
+      "R\xE9gua Preferencial_168": -3505474681792457598
+      "R\xE9gua Preferencial_169": -6852981435670445808
+      "R\xE9gua Preferencial_17": -5894549414474459242
+      "R\xE9gua Preferencial_170": -7337877364280789173
+      "R\xE9gua Preferencial_171": 105037676760759170
+      "R\xE9gua Preferencial_172": 2646597485694885769
+      "R\xE9gua Preferencial_173": -715499245471130707
+      "R\xE9gua Preferencial_174": 8195473216406219378
+      "R\xE9gua Preferencial_175": 3000423267334562955
+      "R\xE9gua Preferencial_176": -7086652279845205962
+      "R\xE9gua Preferencial_177": -472133198930310827
+      "R\xE9gua Preferencial_178": -7340977929733611500
+      "R\xE9gua Preferencial_179": -6105986287761976435
+      "R\xE9gua Preferencial_18": -2588243227973568893
+      "R\xE9gua Preferencial_180": 7290681174764915181
+      "R\xE9gua Preferencial_181": -5616991434905890416
+      "R\xE9gua Preferencial_182": 5454236183561745817
+      "R\xE9gua Preferencial_19": 6345989027841247155
+      "R\xE9gua Preferencial_2": 2105548257566607095
+      "R\xE9gua Preferencial_20": 2476095086582302087
+      "R\xE9gua Preferencial_21": 3692432564985553350
+      "R\xE9gua Preferencial_22": 4060290618500487350
+      "R\xE9gua Preferencial_23": -5967400333691641257
+      "R\xE9gua Preferencial_24": 5164054613425448655
+      "R\xE9gua Preferencial_25": 8986985987826049873
+      "R\xE9gua Preferencial_26": -5555935251636672215
+      "R\xE9gua Preferencial_27": -6795741923621348794
+      "R\xE9gua Preferencial_28": 2756359554072424148
+      "R\xE9gua Preferencial_29": 2268357838377588203
+      "R\xE9gua Preferencial_3": -5354206647964719742
+      "R\xE9gua Preferencial_30": -6111549619412011254
+      "R\xE9gua Preferencial_31": -8586070479734526806
+      "R\xE9gua Preferencial_32": 3474684610669018671
+      "R\xE9gua Preferencial_33": -4200771957831770119
+      "R\xE9gua Preferencial_34": 7059432358699553789
+      "R\xE9gua Preferencial_35": 6457540925425010809
+      "R\xE9gua Preferencial_36": 6865223109092095251
+      "R\xE9gua Preferencial_37": 3014912708904299058
+      "R\xE9gua Preferencial_38": -5440953171444487014
+      "R\xE9gua Preferencial_39": 7275760927526647907
+      "R\xE9gua Preferencial_4": 6094311053268103136
+      "R\xE9gua Preferencial_40": 4348190564206381390
+      "R\xE9gua Preferencial_41": -5326007536059849996
+      "R\xE9gua Preferencial_42": 5923598720714219100
+      "R\xE9gua Preferencial_43": 6747751798978987236
+      "R\xE9gua Preferencial_44": -4767126918240451046
+      "R\xE9gua Preferencial_45": -6366989358411628680
+      "R\xE9gua Preferencial_46": 3127512804539386185
+      "R\xE9gua Preferencial_47": 8239504100293585704
+      "R\xE9gua Preferencial_48": -3493927736213400678
+      "R\xE9gua Preferencial_49": -2305165628279712395
+      "R\xE9gua Preferencial_5": -5298825835617454829
+      "R\xE9gua Preferencial_50": -5661369765954645599
+      "R\xE9gua Preferencial_51": -5427142234007095639
+      "R\xE9gua Preferencial_52": -5902316310905205928
+      "R\xE9gua Preferencial_53": 5877621486414805824
+      "R\xE9gua Preferencial_54": 7243499185496156841
+      "R\xE9gua Preferencial_55": -3505576233248366427
+      "R\xE9gua Preferencial_56": -8649453291074156332
+      "R\xE9gua Preferencial_57": 7680081957725174153
+      "R\xE9gua Preferencial_58": 186494657939334157
+      "R\xE9gua Preferencial_59": -2727567170075229349
+      "R\xE9gua Preferencial_6": -1264786157184775005
+      "R\xE9gua Preferencial_60": 7611056790509074272
+      "R\xE9gua Preferencial_61": -8543202874943443236
+      "R\xE9gua Preferencial_62": 5948009870592082585
+      "R\xE9gua Preferencial_63": -5525896933213226906
+      "R\xE9gua Preferencial_64": -8314582352967850229
+      "R\xE9gua Preferencial_65": -4840298690429696392
+      "R\xE9gua Preferencial_66": 414569738304119894
+      "R\xE9gua Preferencial_67": -2746329521174339268
+      "R\xE9gua Preferencial_68": 5226058094399801519
+      "R\xE9gua Preferencial_69": 5815306781533124616
+      "R\xE9gua Preferencial_7": -7169190178417726345
+      "R\xE9gua Preferencial_70": 8965385573500702674
+      "R\xE9gua Preferencial_71": -6918323839009368036
+      "R\xE9gua Preferencial_72": 4901384263805535427
+      "R\xE9gua Preferencial_73": 1948853828365379168
+      "R\xE9gua Preferencial_74": 4131416279412304063
+      "R\xE9gua Preferencial_75": 2765560556863174103
+      "R\xE9gua Preferencial_76": -5215300621981848823
+      "R\xE9gua Preferencial_77": 4212446740206834059
+      "R\xE9gua Preferencial_78": -7357384662297780653
+      "R\xE9gua Preferencial_79": 5659753988442246580
+      "R\xE9gua Preferencial_8": 6496601457537690976
+      "R\xE9gua Preferencial_80": 6915645793338365851
+      "R\xE9gua Preferencial_81": 5513354645797299889
+      "R\xE9gua Preferencial_82": 6653251250328600448
+      "R\xE9gua Preferencial_83": -2612615751513843044
+      "R\xE9gua Preferencial_84": 4017560940098719397
+      "R\xE9gua Preferencial_85": -7806583864842754061
+      "R\xE9gua Preferencial_86": 6990932253796359226
+      "R\xE9gua Preferencial_87": 5117474839306790113
+      "R\xE9gua Preferencial_88": 3576591928370146413
+      "R\xE9gua Preferencial_89": 749934615539380607
+      "R\xE9gua Preferencial_9": -3167817824818500676
+      "R\xE9gua Preferencial_90": -912967585553147979
+      "R\xE9gua Preferencial_91": -497100805591667815
+      "R\xE9gua Preferencial_92": 9162578858519406198
+      "R\xE9gua Preferencial_93": -6871908591488186304
+      "R\xE9gua Preferencial_94": -4152931847145400867
+      "R\xE9gua Preferencial_95": -6621489043118455777
+      "R\xE9gua Preferencial_96": -8572352452141685664
+      "R\xE9gua Preferencial_97": -7763498930879703771
+      "R\xE9gua Preferencial_98": 4712590536779284064
+      "R\xE9gua Preferencial_99": 4290599893108536201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
