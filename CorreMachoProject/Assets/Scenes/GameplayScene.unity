@@ -1880,6 +1880,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 007de2375527e6340b4e2d5ac349acda, type: 3}
+--- !u!114 &1189432847 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5423367716843090556, guid: 007de2375527e6340b4e2d5ac349acda, type: 3}
+  m_PrefabInstance: {fileID: 1189432846}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0e2ddb729a48045997d4df1dc7e0c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1246252833
 GameObject:
   m_ObjectHideFlags: 0
@@ -1941,7 +1952,6 @@ GameObject:
   - component: {fileID: 1282252588}
   - component: {fileID: 1282252587}
   - component: {fileID: 1282252586}
-  - component: {fileID: 1282252589}
   - component: {fileID: 1282252590}
   - component: {fileID: 1282252591}
   m_Layer: 5
@@ -2014,7 +2024,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1282252587}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1189432847}
+        m_TargetAssemblyTypeName: PauseHUD, Assembly-CSharp
+        m_MethodName: OpenOrClose
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1282252587
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2053,18 +2075,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1282252584}
   m_CullTransparentMesh: 1
---- !u!114 &1282252589
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1282252584}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4816f5b54af679d47b082365ffbf9191, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1282252590
 MonoBehaviour:
   m_ObjectHideFlags: 0
