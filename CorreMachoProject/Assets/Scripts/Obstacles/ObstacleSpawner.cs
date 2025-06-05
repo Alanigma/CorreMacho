@@ -59,12 +59,14 @@ namespace Game.Obstacles
     public class ObstacleSpawnerSettings
     {
         [SerializeField] Transform m_spawnPoint;
+        [SerializeField] GameObject m_warning;
         [SerializeField] List<PoolData> m_availableObstacles;
         public void DoSpawn()
         {
             if (m_availableObstacles.IsNullOrEmpty()) return;
             PoolData obstacle = m_availableObstacles.GetRandom();
             PoolManager.ProvideInstance().PullObject(obstacle, m_spawnPoint.position, Quaternion.identity);
+            m_warning.SetActive(true);
         }
     }
 }
