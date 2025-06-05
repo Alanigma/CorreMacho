@@ -62,6 +62,7 @@ public class Configuration : MonoBehaviour
 
     public void MusicVolume(float _MusicVolume)
     {
+        m_MusicSlider.SetValueWithoutNotify(_MusicVolume);
         m_AudioMixer.SetFloat(m_MusicVolumeText, LinearToDecibel(_MusicVolume));
         PlayerPrefs.SetFloat(m_MusicVolumeText, _MusicVolume);
     }
@@ -76,6 +77,7 @@ public class Configuration : MonoBehaviour
 
     public void SFXVolume(float _SFXVolume)
     {
+        m_SFXSlider.SetValueWithoutNotify(_SFXVolume);
         m_AudioMixer.SetFloat(m_SFXVolumeText, LinearToDecibel(_SFXVolume));
         PlayerPrefs.SetFloat(m_SFXVolumeText, _SFXVolume);
     }
