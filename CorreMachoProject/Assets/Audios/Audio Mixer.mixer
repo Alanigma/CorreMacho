@@ -33,7 +33,7 @@ AudioMixerController:
   - guid: f73b555921a2cd2489c7b500ad08011f
     name: MusicVolume
   - guid: e41c273fa6d73924e87e7c1a1dd3673c
-    name: SFXVolume
+    name: SfxVolume
   m_AudioMixerGroupViews:
   - guids:
     - 66f4c659a192a814eb1bf186b8c6f16d
