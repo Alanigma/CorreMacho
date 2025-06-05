@@ -13,7 +13,7 @@ public class Configuration : MonoBehaviour
 
     public AudioMixer m_AudioMixer;
 
-    public Toggle m_CameraShake, m_HighContrast, m_Daltonism;
+    public Toggle m_HighContrast, m_Daltonism;
 
     public GameObject m_ConfigurationPanel;
 
@@ -35,7 +35,6 @@ public class Configuration : MonoBehaviour
         MusicMute(PlayerPrefs.GetInt("MuteMusic", 0) == 1);
         SFXMute(PlayerPrefs.GetInt("MuteSFX", 0) == 1);
 
-        CameraShake(PlayerPrefs.GetInt("CameraShake", 1) == 1);
         HighContrast(PlayerPrefs.GetInt("HighContrast", 0) == 1);
         Daltonism(PlayerPrefs.GetInt("Daltonism", 0) == 1);
 
@@ -115,22 +114,12 @@ public class Configuration : MonoBehaviour
         ConfigValues.m_Daltonism = _Value;
 
     }
-
-    public void CameraShake(bool _Value)
-    {
-
-        m_CameraShake.SetIsOnWithoutNotify(_Value);
-        PlayerPrefs.SetInt("CameraShake",(_Value) ? 1 : 0);
-        ConfigValues.m_CameraShake = _Value;
-
-    }
     
 }
 
 public static class ConfigValues
 {
 
-    public static bool m_CameraShake;
     public static bool m_AutoAim;
     public static bool m_AutoShoot;
     public static bool m_DamageText;
