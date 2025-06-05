@@ -1,3 +1,4 @@
+using Game;
 using UnityEngine;
 
 public class PauseHUD : MonoBehaviour
@@ -9,14 +10,15 @@ public class PauseHUD : MonoBehaviour
     private void OnEnable()
     {
 
-        ObserverPause.OnPause += PauseGame;
+        //ObserverPause.OnPause += PauseGame;
 
     }
 
     private void OnDisable()
     {
 
-        ObserverPause.OnPause -= PauseGame;
+        //ObserverPause.OnPause -= PauseGame;
+        GameSettingsObserver.PauseButtonClick();
 
     }
 

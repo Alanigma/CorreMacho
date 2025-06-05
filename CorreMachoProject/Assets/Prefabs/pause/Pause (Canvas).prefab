@@ -560,10 +560,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2574931656453414843}
-        m_TargetAssemblyTypeName: PauseHUD, Assembly-CSharp
-        m_MethodName: PauseGame
-        m_Mode: 1
+      - m_Target: {fileID: 1909530102599933069}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -950,9 +950,9 @@ GameObject:
   - component: {fileID: 435473899518492156}
   - component: {fileID: 7743614220912473077}
   - component: {fileID: 1928124626483376168}
-  - component: {fileID: 2574931656453414843}
   - component: {fileID: 3655473341481992349}
   - component: {fileID: 4194978263789704432}
+  - component: {fileID: 5423367716843090556}
   - component: {fileID: 7497800429285083847}
   - component: {fileID: 5065867564322359953}
   m_Layer: 5
@@ -991,7 +991,7 @@ Canvas:
   m_GameObject: {fileID: 1909530102599933069}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 1
   m_PixelPerfect: 0
@@ -1045,19 +1045,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &2574931656453414843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1909530102599933069}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d0e2ddb729a48045997d4df1dc7e0c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PauseCanvas: {fileID: 3655473341481992349}
 --- !u!225 &3655473341481992349
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1067,8 +1054,8 @@ CanvasGroup:
   m_GameObject: {fileID: 1909530102599933069}
   m_Enabled: 1
   m_Alpha: 1
-  m_Interactable: 0
-  m_BlocksRaycasts: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
 --- !u!114 &4194978263789704432
 MonoBehaviour:
@@ -1108,6 +1095,19 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &5423367716843090556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909530102599933069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0e2ddb729a48045997d4df1dc7e0c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PauseCanvas: {fileID: 3655473341481992349}
 --- !u!114 &7497800429285083847
 MonoBehaviour:
   m_ObjectHideFlags: 0
