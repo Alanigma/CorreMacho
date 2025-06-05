@@ -51,15 +51,6 @@ public class Configuration : MonoBehaviour
         return Mathf.Pow(10f, decibelValue / 20f);
     }
 
-    private void Update()
-    {
-        if (m_ConfigurationPanel == null) return;
-        if (m_ConfigurationPanel.activeInHierarchy && Input.GetKeyDown(KeyCode.Escape))
-        {
-            m_ConfigurationPanel.SetActive(false);
-        }
-    }
-
     public void MusicVolume(float _MusicVolume)
     {
         m_MusicSlider.SetValueWithoutNotify(_MusicVolume);

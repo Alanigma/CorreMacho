@@ -8,7 +8,6 @@ namespace Game.GameSystem
     public class GameplayController : MonoBehaviour
     {
         [SerializeField] GameObject m_gameplayCanvas;
-        [SerializeField] GameObject m_pauseCanvas;
 
         int m_currentPoints;
         private void OnEnable()
@@ -30,7 +29,6 @@ namespace Game.GameSystem
 
         private void Awake()
         {
-            m_pauseCanvas.SetActive(false);
             m_gameplayCanvas.SetActive(true);
         }
 
