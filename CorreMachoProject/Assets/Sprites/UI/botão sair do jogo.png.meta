@@ -1,7 +1,10 @@
 fileFormatVersion: 2
-guid: ed2f74a778584d546b7d6337c0bca180
+guid: ffd76d3f315ed1d47974426677d50eb1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4947831943323693214
+    second: "bot\xE3o sair do jogo_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -95,13 +98,35 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "bot\xE3o sair do jogo_0"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 1196
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b32e00fa3aa440800000000000000
+      internalID: 4947831943323693214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -109,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "bot\xE3o sair do jogo_0": 4947831943323693214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
