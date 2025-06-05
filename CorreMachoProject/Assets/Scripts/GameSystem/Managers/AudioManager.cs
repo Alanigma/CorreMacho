@@ -10,32 +10,11 @@ namespace Game.GameSystem
         [SerializeField] List<AudioSource> m_musics;
         int m_currentMusicIndex;
 
-        private void OnEnable()
-        {
-            GameManagerStaticObserver.OnSetAudioValue += SetVolume;
-        }
-
-        private void OnDisable()
-        {
-            GameManagerStaticObserver.OnSetAudioValue -= SetVolume;
-
-        }
-
         private void Start()
         {
             m_currentMusicIndex = Random.Range(0, m_musics.Count);
             GetCurrentMusic().Play();
             StartCoroutine(MusicUpdate());
-        }
-
-        void SetVolume(bool enable)
-        {
-            float volume = enable ? 1.0f : 0.0f;
-
-            foreach (var music in m_musics)
-            {
-                music.volume = volume;
-            }
         }
 
         IEnumerator MusicUpdate()

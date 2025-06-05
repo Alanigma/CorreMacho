@@ -1,37 +1,40 @@
 using Game;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PauseHUD : MonoBehaviour
 {
 
-    public CanvasGroup m_PauseCanvas;
-    private bool m_IsPaused = false;
+    public GameObject m_PausePanel;
 
     private void OnEnable()
     {
 
-        GameSettingsObserver.OnPauseButtonClick += PauseGame;
+        UpdatePause();
+        InputObserver.OnEscape += OpenOrClose;
 
     }
 
     private void OnDisable()
     {
 
-        GameSettingsObserver.OnPauseButtonClick -= PauseGame;
+        InputObserver.OnEscape -= OpenOrClose;
 
     }
 
-    public void CallPause() => ObserverPause.CallPause();
-
-    public void CallPauseClick()
+    public void OpenOrClose(InputAction.CallbackContext _CallbackContext) => OpenOrClose();
+    public void OpenOrClose()
     {
-        GameSettingsObserver.PauseButtonClick();
+
+        m_PausePanel.SetActive(!m_PausePanel.activeInHierarchy);
+        UpdatePause();
+
     }
 
-    private void PauseGame()
+    private void UpdatePause()
     {
 
-        //
+        Time.timeScale = (m_PausePanel.activeInHierarchy) ? 0:1;
 
     }
 

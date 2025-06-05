@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace Game.GameSystem
@@ -17,7 +15,6 @@ namespace Game.GameSystem
         {
             InputManager.ProvideInstance();
             AudioManager.ProvideInstance();
-            GameManager.ProvideInstance();
             GameScenesManager.ProvideInstance().LoadSingleScene(m_firstSceneIndex);
         }
     }

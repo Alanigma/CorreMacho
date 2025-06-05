@@ -563,7 +563,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 5423367716843090556}
         m_TargetAssemblyTypeName: PauseHUD, Assembly-CSharp
-        m_MethodName: CallPauseClick
+        m_MethodName: OpenOrClose
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -888,7 +888,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1061,7 +1061,6 @@ GameObject:
   - component: {fileID: 7743614220912473077}
   - component: {fileID: 1928124626483376168}
   - component: {fileID: 3655473341481992349}
-  - component: {fileID: 4194978263789704432}
   - component: {fileID: 5423367716843090556}
   - component: {fileID: 7497800429285083847}
   - component: {fileID: 5065867564322359953}
@@ -1167,44 +1166,6 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &4194978263789704432
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1909530102599933069}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: 55339954d2f8d394b87290154b3177a0, type: 3}
-  m_NotificationBehavior: 2
-  m_UIInputModule: {fileID: 0}
-  m_DeviceLostEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_DeviceRegainedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ControlsChangedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ActionEvents:
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 4c7968ec-132c-4690-a36d-f8471e2f0ac0
-    m_ActionName: 'Player/Jump[/Keyboard/space]'
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: ff1e85e8-ef00-4182-8bf1-7e8f44ec677b
-    m_ActionName: 'Player/Escape[/Keyboard/escape]'
-  m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: 
-  m_DefaultActionMap: Player
-  m_SplitScreenIndex: -1
-  m_Camera: {fileID: 0}
 --- !u!114 &5423367716843090556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1217,7 +1178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e2ddb729a48045997d4df1dc7e0c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PauseCanvas: {fileID: 3655473341481992349}
+  m_PausePanel: {fileID: 7922349179691574394}
 --- !u!114 &7497800429285083847
 MonoBehaviour:
   m_ObjectHideFlags: 0

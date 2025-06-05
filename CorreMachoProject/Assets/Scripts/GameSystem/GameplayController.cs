@@ -14,16 +14,12 @@ namespace Game.GameSystem
         private void OnEnable()
         {
             PlayerHealthObserver.OnPlayerDie += LoadDeathScreen;
-            GameSettingsObserver.OnPauseButtonClick += Pause;
-            InputObserver.OnEscape += PauseInput;
             PlayerPointsObserver.OnUpdatePoints += SetPoints;
         }
 
         private void OnDisable()
         {
             PlayerHealthObserver.OnPlayerDie -= LoadDeathScreen;
-            GameSettingsObserver.OnPauseButtonClick -= Pause;
-            InputObserver.OnEscape -= PauseInput;
             PlayerPointsObserver.OnUpdatePoints -= SetPoints;
         }
 
@@ -40,22 +36,9 @@ namespace Game.GameSystem
 
         void LoadDeathScreen()
         {
-            GameManager.ProvideInstance().PauseGame(false);
             GameScenesManager gameScene = GameScenesManager.ProvideInstance();
             gameScene.LoadSingleSceneWithData(gameScene.DeathScreenScene, m_currentPoints);
         }
 
-        void PauseInput(InputAction.CallbackContext context)
-        {
-            if (!context.performed) return;
-            GameSettingsObserver.PauseButtonClick();
-        }
-
-        void Pause()
-        {
-            bool paused = GameManager.ProvideInstance().m_GamePaused;
-            m_pauseCanvas.SetActive(paused);
-            m_gameplayCanvas.SetActive(!paused);
-        }
     }
 }
