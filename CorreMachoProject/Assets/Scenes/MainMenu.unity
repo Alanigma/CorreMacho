@@ -1360,11 +1360,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 802085403773796606, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 55.8
+      value: 55.80005
       objectReference: {fileID: 0}
     - target: {fileID: 802085403773796606, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 155.9
+      value: 155.89996
       objectReference: {fileID: 0}
     - target: {fileID: 802085403773796606, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1393,7 +1393,7 @@ PrefabInstance:
     - target: {fileID: 5067639986857493432, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2851045912387099381, guid: f18cd5b2db0aaa14eafaa17cdca16c50, type: 3}
+      objectReference: {fileID: 3596265777281052349, guid: f18cd5b2db0aaa14eafaa17cdca16c50, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2471,7 +2471,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2834433569694921032
 MonoBehaviour:
   m_ObjectHideFlags: 0
