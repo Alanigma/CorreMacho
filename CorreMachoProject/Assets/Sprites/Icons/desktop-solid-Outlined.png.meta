@@ -1,0 +1,3076 @@
+fileFormatVersion: 2
+guid: f18cd5b2db0aaa14eafaa17cdca16c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2551859264474353895
+    second: desktop-solid-Outlined_0
+  - first:
+      213: -8438976848963227269
+    second: desktop-solid-Outlined_1
+  - first:
+      213: -7742979747697955591
+    second: desktop-solid-Outlined_2
+  - first:
+      213: -2621730379705596989
+    second: desktop-solid-Outlined_3
+  - first:
+      213: 8548207786725445452
+    second: desktop-solid-Outlined_4
+  - first:
+      213: -1529956504059198163
+    second: desktop-solid-Outlined_5
+  - first:
+      213: 258065232010195050
+    second: desktop-solid-Outlined_6
+  - first:
+      213: 1929795359576386006
+    second: desktop-solid-Outlined_7
+  - first:
+      213: 8749369527432026886
+    second: desktop-solid-Outlined_8
+  - first:
+      213: -9193793002155629379
+    second: desktop-solid-Outlined_9
+  - first:
+      213: -4321763264315448643
+    second: desktop-solid-Outlined_10
+  - first:
+      213: -4936117128755658514
+    second: desktop-solid-Outlined_11
+  - first:
+      213: -3426182952298528660
+    second: desktop-solid-Outlined_12
+  - first:
+      213: 2569582092995652475
+    second: desktop-solid-Outlined_13
+  - first:
+      213: -9099109213532975699
+    second: desktop-solid-Outlined_14
+  - first:
+      213: -1939825206488694409
+    second: desktop-solid-Outlined_15
+  - first:
+      213: -7515660916089555834
+    second: desktop-solid-Outlined_16
+  - first:
+      213: -1989183101998489465
+    second: desktop-solid-Outlined_17
+  - first:
+      213: -3112040506843180730
+    second: desktop-solid-Outlined_18
+  - first:
+      213: 1145788669129372097
+    second: desktop-solid-Outlined_19
+  - first:
+      213: -7980269906862137545
+    second: desktop-solid-Outlined_20
+  - first:
+      213: 6028954595448502727
+    second: desktop-solid-Outlined_21
+  - first:
+      213: -6171693054839337509
+    second: desktop-solid-Outlined_22
+  - first:
+      213: -5914055459280756100
+    second: desktop-solid-Outlined_23
+  - first:
+      213: 8453436207133316675
+    second: desktop-solid-Outlined_24
+  - first:
+      213: 2904609669077585829
+    second: desktop-solid-Outlined_25
+  - first:
+      213: -3538856999240354607
+    second: desktop-solid-Outlined_26
+  - first:
+      213: 4937520185905978852
+    second: desktop-solid-Outlined_27
+  - first:
+      213: -2851045912387099381
+    second: desktop-solid-Outlined_28
+  - first:
+      213: 8539941633067890612
+    second: desktop-solid-Outlined_29
+  - first:
+      213: 3957970292617438784
+    second: desktop-solid-Outlined_30
+  - first:
+      213: -6473188235020806445
+    second: desktop-solid-Outlined_31
+  - first:
+      213: -1550438017842213258
+    second: desktop-solid-Outlined_32
+  - first:
+      213: -9006503307057154418
+    second: desktop-solid-Outlined_33
+  - first:
+      213: -5571312957169728209
+    second: desktop-solid-Outlined_34
+  - first:
+      213: -6878837731273343640
+    second: desktop-solid-Outlined_35
+  - first:
+      213: -7982698876905097236
+    second: desktop-solid-Outlined_36
+  - first:
+      213: 3032882996721828744
+    second: desktop-solid-Outlined_37
+  - first:
+      213: 8300252417468640426
+    second: desktop-solid-Outlined_38
+  - first:
+      213: 2567758686733070108
+    second: desktop-solid-Outlined_39
+  - first:
+      213: 2618629158560801314
+    second: desktop-solid-Outlined_40
+  - first:
+      213: -261695279268499561
+    second: desktop-solid-Outlined_41
+  - first:
+      213: -1299667041074480539
+    second: desktop-solid-Outlined_42
+  - first:
+      213: -712765795986002556
+    second: desktop-solid-Outlined_43
+  - first:
+      213: 5359502093205103910
+    second: desktop-solid-Outlined_44
+  - first:
+      213: -4625793567833977486
+    second: desktop-solid-Outlined_45
+  - first:
+      213: -7217584399723597027
+    second: desktop-solid-Outlined_46
+  - first:
+      213: -522128265811190842
+    second: desktop-solid-Outlined_47
+  - first:
+      213: 798274790778964071
+    second: desktop-solid-Outlined_48
+  - first:
+      213: -5260025414021575539
+    second: desktop-solid-Outlined_49
+  - first:
+      213: -6502925945320555880
+    second: desktop-solid-Outlined_50
+  - first:
+      213: -5590974758184006895
+    second: desktop-solid-Outlined_51
+  - first:
+      213: -291592750808570573
+    second: desktop-solid-Outlined_52
+  - first:
+      213: -1401840771294366279
+    second: desktop-solid-Outlined_53
+  - first:
+      213: 6899969039326158590
+    second: desktop-solid-Outlined_54
+  - first:
+      213: 3297869167249198025
+    second: desktop-solid-Outlined_55
+  - first:
+      213: -4684536809282233837
+    second: desktop-solid-Outlined_56
+  - first:
+      213: -7961943849026111390
+    second: desktop-solid-Outlined_57
+  - first:
+      213: -6779785087980587133
+    second: desktop-solid-Outlined_58
+  - first:
+      213: -1072491183572578436
+    second: desktop-solid-Outlined_59
+  - first:
+      213: 7999757124018133220
+    second: desktop-solid-Outlined_60
+  - first:
+      213: 1299779333810127989
+    second: desktop-solid-Outlined_61
+  - first:
+      213: -5510807304069935723
+    second: desktop-solid-Outlined_62
+  - first:
+      213: -5444924036009763148
+    second: desktop-solid-Outlined_63
+  - first:
+      213: 3766580802009064580
+    second: desktop-solid-Outlined_64
+  - first:
+      213: 7681293250431537329
+    second: desktop-solid-Outlined_65
+  - first:
+      213: -4860668913084383033
+    second: desktop-solid-Outlined_66
+  - first:
+      213: 8225505370635855635
+    second: desktop-solid-Outlined_67
+  - first:
+      213: -403161390548693869
+    second: desktop-solid-Outlined_68
+  - first:
+      213: -2284654831936797139
+    second: desktop-solid-Outlined_69
+  - first:
+      213: 7705953085665223494
+    second: desktop-solid-Outlined_70
+  - first:
+      213: 6779994359548497169
+    second: desktop-solid-Outlined_71
+  - first:
+      213: -227404282700853727
+    second: desktop-solid-Outlined_72
+  - first:
+      213: -7622330560400682281
+    second: desktop-solid-Outlined_73
+  - first:
+      213: 6090492318688531568
+    second: desktop-solid-Outlined_74
+  - first:
+      213: 2821966512118956404
+    second: desktop-solid-Outlined_75
+  - first:
+      213: 7946095175700692078
+    second: desktop-solid-Outlined_76
+  - first:
+      213: -7133718443053328881
+    second: desktop-solid-Outlined_77
+  - first:
+      213: -2822323103879436475
+    second: desktop-solid-Outlined_78
+  - first:
+      213: 111745246435625385
+    second: desktop-solid-Outlined_79
+  - first:
+      213: -5424989595773462040
+    second: desktop-solid-Outlined_80
+  - first:
+      213: -2247985699705718702
+    second: desktop-solid-Outlined_81
+  - first:
+      213: -5689413114687781096
+    second: desktop-solid-Outlined_82
+  - first:
+      213: -2060536736091877526
+    second: desktop-solid-Outlined_83
+  - first:
+      213: -604077612905922694
+    second: desktop-solid-Outlined_84
+  - first:
+      213: -796186809524182139
+    second: desktop-solid-Outlined_85
+  - first:
+      213: -4484529684746905218
+    second: desktop-solid-Outlined_86
+  - first:
+      213: -5444183467897313815
+    second: desktop-solid-Outlined_87
+  - first:
+      213: 1302220305396192453
+    second: desktop-solid-Outlined_88
+  - first:
+      213: -1598071264625311479
+    second: desktop-solid-Outlined_89
+  - first:
+      213: -2096866405055560765
+    second: desktop-solid-Outlined_90
+  - first:
+      213: 6934644474830751343
+    second: desktop-solid-Outlined_91
+  - first:
+      213: -2200966680242564711
+    second: desktop-solid-Outlined_92
+  - first:
+      213: 6006309664097953075
+    second: desktop-solid-Outlined_93
+  - first:
+      213: 8256257774872200593
+    second: desktop-solid-Outlined_94
+  - first:
+      213: 4275509204898964547
+    second: desktop-solid-Outlined_95
+  - first:
+      213: -2061771644945054747
+    second: desktop-solid-Outlined_96
+  - first:
+      213: 4841953240980721413
+    second: desktop-solid-Outlined_97
+  - first:
+      213: 5326532033931453662
+    second: desktop-solid-Outlined_98
+  - first:
+      213: -3038288571478259159
+    second: desktop-solid-Outlined_99
+  - first:
+      213: 2898055609066339269
+    second: desktop-solid-Outlined_100
+  - first:
+      213: -3073082113264596565
+    second: desktop-solid-Outlined_101
+  - first:
+      213: -2229991463442412486
+    second: desktop-solid-Outlined_102
+  - first:
+      213: 3553204671439622921
+    second: desktop-solid-Outlined_103
+  - first:
+      213: 3329065427534109787
+    second: desktop-solid-Outlined_104
+  - first:
+      213: 4505332215822358957
+    second: desktop-solid-Outlined_105
+  - first:
+      213: -1049295749462084570
+    second: desktop-solid-Outlined_106
+  - first:
+      213: 8451606160081915943
+    second: desktop-solid-Outlined_107
+  - first:
+      213: 3596265777281052349
+    second: desktop-solid-Outlined_108
+  - first:
+      213: 7091446087996715848
+    second: desktop-solid-Outlined_109
+  - first:
+      213: 3505691167203925084
+    second: desktop-solid-Outlined_110
+  - first:
+      213: 1792063148634932048
+    second: desktop-solid-Outlined_111
+  - first:
+      213: 6116890671642972995
+    second: desktop-solid-Outlined_112
+  - first:
+      213: -3026822282165353104
+    second: desktop-solid-Outlined_113
+  - first:
+      213: 1567970473902510762
+    second: desktop-solid-Outlined_114
+  - first:
+      213: 6345900112479058592
+    second: desktop-solid-Outlined_115
+  - first:
+      213: 5417153683992995077
+    second: desktop-solid-Outlined_116
+  - first:
+      213: -3645930846793613989
+    second: desktop-solid-Outlined_117
+  - first:
+      213: 8038571385058011937
+    second: desktop-solid-Outlined_118
+  - first:
+      213: 1070478679240099729
+    second: desktop-solid-Outlined_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e098cf0b760a6320800000000000000
+      internalID: 2551859264474353895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b713dc9744bb2ea80800000000000000
+      internalID: -8438976848963227269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6b6b81f86b8490800000000000000
+      internalID: -7742979747697955591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c34cc43c1ebd9bd0800000000000000
+      internalID: -2621730379705596989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f8ff111b551a670800000000000000
+      internalID: 8548207786725445452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c0c56aa084cae0800000000000000
+      internalID: -1529956504059198163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b8d216f4d49300800000000000000
+      internalID: 258065232010195050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96fb0b7a208ca10800000000000000
+      internalID: 1929795359576386006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b9633aa310c6970800000000000000
+      internalID: 8749369527432026886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4aa00b9f5196080800000000000000
+      internalID: -9193793002155629379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2252375330604c0800000000000000
+      internalID: -4321763264315448643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04cc2cf936f7bb0800000000000000
+      internalID: -4936117128755658514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604fb0f1c0c370d0800000000000000
+      internalID: -3426182952298528660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7be532ac4df8a320800000000000000
+      internalID: 2569582092995652475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad02e2216879b180800000000000000
+      internalID: -9099109213532975699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77184e8904b5415e0800000000000000
+      internalID: -1939825206488694409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f13c673203b790800000000000000
+      internalID: -7515660916089555834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ab2402800564e0800000000000000
+      internalID: -1989183101998489465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6415cf6b5afcfc4d0800000000000000
+      internalID: -3112040506843180730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1bf1359b8a6ef00800000000000000
+      internalID: 1145788669129372097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f1ebd0dc2604190800000000000000
+      internalID: -7980269906862137545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9baa403462ba350800000000000000
+      internalID: 6028954595448502727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd4e8b9dddb95aa0800000000000000
+      internalID: -6171693054839337509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726c9fc4ed0deda0800000000000000
+      internalID: -5914055459280756100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3465b913173a05570800000000000000
+      internalID: 8453436207133316675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afc880da1f3f4820800000000000000
+      internalID: 2904609669077585829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4bf511f4473eec0800000000000000
+      internalID: -3538856999240354607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1f30f278958440800000000000000
+      internalID: 4937520185905978852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0566d129dc0f68d0800000000000000
+      internalID: -2851045912387099381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b4913ba7f38670800000000000000
+      internalID: 8539941633067890612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e20bc2098de630800000000000000
+      internalID: 3957970292617438784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6d85fb89d9a26a0800000000000000
+      internalID: -6473188235020806445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e014c56dcbb7ae0800000000000000
+      internalID: -1550438017842213258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863a72f5f8720380800000000000000
+      internalID: -9006503307057154418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f250e5f2268bea2b0800000000000000
+      internalID: -5571312957169728209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df5ef67857980a0800000000000000
+      internalID: -6878837731273343640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce779256aa1c73190800000000000000
+      internalID: -7982698876905097236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8834de04407f61a20800000000000000
+      internalID: 3032882996721828744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacab49d89b603370800000000000000
+      internalID: 8300252417468640426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe5a7cbe282a320800000000000000
+      internalID: 2567758686733070108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222f7a785d375420800000000000000
+      internalID: 2618629158560801314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fedcfa7854e5cf0800000000000000
+      internalID: -261695279268499561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af87a46b7a6fde0800000000000000
+      internalID: -1299667041074480539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da432f84fbb16f0800000000000000
+      internalID: -712765795986002556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e37602c6c06a40800000000000000
+      internalID: 5359502093205103910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d08f03241edcfb0800000000000000
+      internalID: -4625793567833977486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f2169a3df5db90800000000000000
+      internalID: -7217584399723597027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb122dcb1701c8f0800000000000000
+      internalID: -522128265811190842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768878951ba041b00800000000000000
+      internalID: 798274790778964071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c87b731c2a007b0800000000000000
+      internalID: -5260025414021575539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3f748e47f0c5a0800000000000000
+      internalID: -6502925945320555880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b4446641ed862b0800000000000000
+      internalID: -5590974758184006895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e9f420fd04fbf0800000000000000
+      internalID: -291592750808570573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f65bee39ab8ce0800000000000000
+      internalID: -1401840771294366279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9a3e984d91cf50800000000000000
+      internalID: 6899969039326158590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb0a95e88264cd20800000000000000
+      internalID: 3297869167249198025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a9d79779e2dfeb0800000000000000
+      internalID: -4684536809282233837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683135e04e718190800000000000000
+      internalID: -7961943849026111390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873d61226d59e1a0800000000000000
+      internalID: -6779785087980587133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0b6a63febd11f0800000000000000
+      internalID: -1072491183572578436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8508248b8d40f60800000000000000
+      internalID: 7999757124018133220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748526ea6eb90210800000000000000
+      internalID: 1299779333810127989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d884754fda583b0800000000000000
+      internalID: -5510807304069935723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bed6ac007ebf64b0800000000000000
+      internalID: -5444924036009763148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846e818845954430800000000000000
+      internalID: 3766580802009064580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d397938f699a60800000000000000
+      internalID: 7681293250431537329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c042d0606f6b8cb0800000000000000
+      internalID: -4860668913084383033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31761d2dd8dd62270800000000000000
+      internalID: 8225505370635855635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4131f9dea76af0800000000000000
+      internalID: -403161390548693869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260704f8864b40e0800000000000000
+      internalID: -2284654831936797139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643a6e6e08b01fa60800000000000000
+      internalID: 7705953085665223494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d4a04b2f0671e50800000000000000
+      internalID: 6779994359548497169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e863d720918dcf0800000000000000
+      internalID: -227404282700853727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d296ba7dba083690800000000000000
+      internalID: -7622330560400682281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074dcaabe76c58450800000000000000
+      internalID: 6090492318688531568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47106e26793a92720800000000000000
+      internalID: 2821966512118956404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cb51b4673364e60800000000000000
+      internalID: 7946095175700692078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0657224fd0fffc90800000000000000
+      internalID: -7133718443053328881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54763ef171815d8d0800000000000000
+      internalID: -2822323103879436475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a94227a5bffc8100800000000000000
+      internalID: 111745246435625385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99bb994b096b4b0800000000000000
+      internalID: -5424989595773462040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f1ec9aec8dc0e0800000000000000
+      internalID: -2247985699705718702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817069e7ae42b01b0800000000000000
+      internalID: -5689413114687781096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc99671c08763e0800000000000000
+      internalID: -2060536736091877526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff9f19c92ed97f0800000000000000
+      internalID: -604077612905922694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a57ba05063f4f0800000000000000
+      internalID: -796186809524182139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7957f30300c3c1c0800000000000000
+      internalID: -4484529684746905218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e52deffaff5274b0800000000000000
+      internalID: -5444183467897313815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d072e77a621210800000000000000
+      internalID: 1302220305396192453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901cf3ad6a282d9e0800000000000000
+      internalID: -1598071264625311479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c386314d1f66e2e0800000000000000
+      internalID: -2096866405055560765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6689e5986ecc3060800000000000000
+      internalID: 6934644474830751343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991dbad27789471e0800000000000000
+      internalID: -2200966680242564711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ed8311d2ba5350800000000000000
+      internalID: 6006309664097953075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958055e3be149270800000000000000
+      internalID: 8256257774872200593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446aef18f8a55b30800000000000000
+      internalID: 4275509204898964547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c317dc9d1363e0800000000000000
+      internalID: -2061771644945054747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f05b3a1d2123340800000000000000
+      internalID: 4841953240980721413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed42937e9a4abe940800000000000000
+      internalID: 5326532033931453662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac8eb44a4d5d5d0800000000000000
+      internalID: -3038288571478259159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3abdc836f73820800000000000000
+      internalID: 2898055609066339269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c14199183a55d0800000000000000
+      internalID: -3073082113264596565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c8c59349a7d01e0800000000000000
+      internalID: -2229991463442412486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903da6fa2d48f4130800000000000000
+      internalID: 3553204671439622921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c54324e57333e20800000000000000
+      internalID: 3329065427534109787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9173fa7c7268e30800000000000000
+      internalID: 4505332215822358957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243cf443172071f0800000000000000
+      internalID: -1049295749462084570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7209f2926032a4570800000000000000
+      internalID: 8451606160081915943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe2bbcaba088e130800000000000000
+      internalID: 3596265777281052349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843b0ea15a0e96260800000000000000
+      internalID: 7091446087996715848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1a69ea87b6a030800000000000000
+      internalID: 3505691167203925084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053047d50ffaed810800000000000000
+      internalID: 1792063148634932048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desktop-solid-Outlined_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3431e2d38af83e450800000000000000
+      internalID: 6116890671642972995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8bd9cb5aa955de64198228f059b1e03a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      desktop-solid-Outlined_0: 2551859264474353895
+      desktop-solid-Outlined_1: -8438976848963227269
+      desktop-solid-Outlined_10: -4321763264315448643
+      desktop-solid-Outlined_100: 2898055609066339269
+      desktop-solid-Outlined_101: -3073082113264596565
+      desktop-solid-Outlined_102: -2229991463442412486
+      desktop-solid-Outlined_103: 3553204671439622921
+      desktop-solid-Outlined_104: 3329065427534109787
+      desktop-solid-Outlined_105: 4505332215822358957
+      desktop-solid-Outlined_106: -1049295749462084570
+      desktop-solid-Outlined_107: 8451606160081915943
+      desktop-solid-Outlined_108: 3596265777281052349
+      desktop-solid-Outlined_109: 7091446087996715848
+      desktop-solid-Outlined_11: -4936117128755658514
+      desktop-solid-Outlined_110: 3505691167203925084
+      desktop-solid-Outlined_111: 1792063148634932048
+      desktop-solid-Outlined_112: 6116890671642972995
+      desktop-solid-Outlined_12: -3426182952298528660
+      desktop-solid-Outlined_13: 2569582092995652475
+      desktop-solid-Outlined_14: -9099109213532975699
+      desktop-solid-Outlined_15: -1939825206488694409
+      desktop-solid-Outlined_16: -7515660916089555834
+      desktop-solid-Outlined_17: -1989183101998489465
+      desktop-solid-Outlined_18: -3112040506843180730
+      desktop-solid-Outlined_19: 1145788669129372097
+      desktop-solid-Outlined_2: -7742979747697955591
+      desktop-solid-Outlined_20: -7980269906862137545
+      desktop-solid-Outlined_21: 6028954595448502727
+      desktop-solid-Outlined_22: -6171693054839337509
+      desktop-solid-Outlined_23: -5914055459280756100
+      desktop-solid-Outlined_24: 8453436207133316675
+      desktop-solid-Outlined_25: 2904609669077585829
+      desktop-solid-Outlined_26: -3538856999240354607
+      desktop-solid-Outlined_27: 4937520185905978852
+      desktop-solid-Outlined_28: -2851045912387099381
+      desktop-solid-Outlined_29: 8539941633067890612
+      desktop-solid-Outlined_3: -2621730379705596989
+      desktop-solid-Outlined_30: 3957970292617438784
+      desktop-solid-Outlined_31: -6473188235020806445
+      desktop-solid-Outlined_32: -1550438017842213258
+      desktop-solid-Outlined_33: -9006503307057154418
+      desktop-solid-Outlined_34: -5571312957169728209
+      desktop-solid-Outlined_35: -6878837731273343640
+      desktop-solid-Outlined_36: -7982698876905097236
+      desktop-solid-Outlined_37: 3032882996721828744
+      desktop-solid-Outlined_38: 8300252417468640426
+      desktop-solid-Outlined_39: 2567758686733070108
+      desktop-solid-Outlined_4: 8548207786725445452
+      desktop-solid-Outlined_40: 2618629158560801314
+      desktop-solid-Outlined_41: -261695279268499561
+      desktop-solid-Outlined_42: -1299667041074480539
+      desktop-solid-Outlined_43: -712765795986002556
+      desktop-solid-Outlined_44: 5359502093205103910
+      desktop-solid-Outlined_45: -4625793567833977486
+      desktop-solid-Outlined_46: -7217584399723597027
+      desktop-solid-Outlined_47: -522128265811190842
+      desktop-solid-Outlined_48: 798274790778964071
+      desktop-solid-Outlined_49: -5260025414021575539
+      desktop-solid-Outlined_5: -1529956504059198163
+      desktop-solid-Outlined_50: -6502925945320555880
+      desktop-solid-Outlined_51: -5590974758184006895
+      desktop-solid-Outlined_52: -291592750808570573
+      desktop-solid-Outlined_53: -1401840771294366279
+      desktop-solid-Outlined_54: 6899969039326158590
+      desktop-solid-Outlined_55: 3297869167249198025
+      desktop-solid-Outlined_56: -4684536809282233837
+      desktop-solid-Outlined_57: -7961943849026111390
+      desktop-solid-Outlined_58: -6779785087980587133
+      desktop-solid-Outlined_59: -1072491183572578436
+      desktop-solid-Outlined_6: 258065232010195050
+      desktop-solid-Outlined_60: 7999757124018133220
+      desktop-solid-Outlined_61: 1299779333810127989
+      desktop-solid-Outlined_62: -5510807304069935723
+      desktop-solid-Outlined_63: -5444924036009763148
+      desktop-solid-Outlined_64: 3766580802009064580
+      desktop-solid-Outlined_65: 7681293250431537329
+      desktop-solid-Outlined_66: -4860668913084383033
+      desktop-solid-Outlined_67: 8225505370635855635
+      desktop-solid-Outlined_68: -403161390548693869
+      desktop-solid-Outlined_69: -2284654831936797139
+      desktop-solid-Outlined_7: 1929795359576386006
+      desktop-solid-Outlined_70: 7705953085665223494
+      desktop-solid-Outlined_71: 6779994359548497169
+      desktop-solid-Outlined_72: -227404282700853727
+      desktop-solid-Outlined_73: -7622330560400682281
+      desktop-solid-Outlined_74: 6090492318688531568
+      desktop-solid-Outlined_75: 2821966512118956404
+      desktop-solid-Outlined_76: 7946095175700692078
+      desktop-solid-Outlined_77: -7133718443053328881
+      desktop-solid-Outlined_78: -2822323103879436475
+      desktop-solid-Outlined_79: 111745246435625385
+      desktop-solid-Outlined_8: 8749369527432026886
+      desktop-solid-Outlined_80: -5424989595773462040
+      desktop-solid-Outlined_81: -2247985699705718702
+      desktop-solid-Outlined_82: -5689413114687781096
+      desktop-solid-Outlined_83: -2060536736091877526
+      desktop-solid-Outlined_84: -604077612905922694
+      desktop-solid-Outlined_85: -796186809524182139
+      desktop-solid-Outlined_86: -4484529684746905218
+      desktop-solid-Outlined_87: -5444183467897313815
+      desktop-solid-Outlined_88: 1302220305396192453
+      desktop-solid-Outlined_89: -1598071264625311479
+      desktop-solid-Outlined_9: -9193793002155629379
+      desktop-solid-Outlined_90: -2096866405055560765
+      desktop-solid-Outlined_91: 6934644474830751343
+      desktop-solid-Outlined_92: -2200966680242564711
+      desktop-solid-Outlined_93: 6006309664097953075
+      desktop-solid-Outlined_94: 8256257774872200593
+      desktop-solid-Outlined_95: 4275509204898964547
+      desktop-solid-Outlined_96: -2061771644945054747
+      desktop-solid-Outlined_97: 4841953240980721413
+      desktop-solid-Outlined_98: 5326532033931453662
+      desktop-solid-Outlined_99: -3038288571478259159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
