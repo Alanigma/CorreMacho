@@ -10,6 +10,7 @@ namespace Game
         public Image m_MapPreview;
         public int m_MapIndex;
         public List<Sprite> m_Maps;
+        public List<Image> m_Miniatures;
 
         private void Start()
         {
@@ -31,8 +32,18 @@ namespace Game
             UpdateVisual();
         }
 
+        public void SetMapIndex(int _MapIndex)
+        {
+            m_MapIndex = _MapIndex;
+            UpdateVisual();
+        }
+
         void UpdateVisual()
         {
+            for (int i = 0; i < m_Miniatures.Count; i++)
+            {
+                m_Miniatures[i].color = i == m_MapIndex ? Color.white : Color.black;
+            }
             m_MapPreview.sprite = m_Maps[m_MapIndex];
             GameScenesManager.Instance.m_MapIndex = m_MapIndex;
         }
