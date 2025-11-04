@@ -11,7 +11,7 @@ namespace Game.GameSystem
         Background m_currentBackground;
         void Awake()
         {
-            m_currentBackground = m_backgrounds.GetRandom();
+            m_currentBackground = m_backgrounds[GameScenesManager.Instance.m_MapIndex];
 
             m_currentBackground.DoSpawnObjects();
         }

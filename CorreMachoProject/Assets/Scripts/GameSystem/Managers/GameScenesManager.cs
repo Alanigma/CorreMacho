@@ -12,6 +12,7 @@ namespace Game.GameSystem
         [SerializeField, Min(0)] int m_menuScene;
         [SerializeField, Min(0)] int m_gameScene;
         [SerializeField, Min(0)] int m_deathScreenScene;
+        public int m_MapIndex;
 
         public int MenuScene => m_menuScene;
         public int GameScene => m_gameScene;
