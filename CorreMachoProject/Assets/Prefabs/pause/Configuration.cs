@@ -13,11 +13,11 @@ public class Configuration : MonoBehaviour
 
     public AudioMixer m_AudioMixer;
 
-    public Toggle m_HighContrast, m_Daltonism, m_LessMoviment;
+    public Toggle m_HighContrast, m_Daltonism, m_LessMoviment, m_BigFont;
 
     public GameObject m_ConfigurationPanel;
 
-    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness", m_SaturationText = "Saturation", m_LessMovimentText = "LessMoviment";
+    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness", m_SaturationText = "Saturation", m_LessMovimentText = "LessMoviment", m_BigFontText = "BigFont";
 
     private Volume m_Volume;
     private ColorAdjustments m_ColorAdjust;
@@ -39,6 +39,7 @@ public class Configuration : MonoBehaviour
         HighContrast(PlayerPrefs.GetInt("HighContrast", 0) == 1);
         Daltonism(PlayerPrefs.GetInt("Daltonism", 0) == 1);
         LessMoviment(PlayerPrefs.GetInt(m_LessMovimentText, 0) == 1);
+        BigFont(PlayerPrefs.GetInt(m_BigFontText, 0) == 1);
 
     }
 
@@ -128,6 +129,15 @@ public class Configuration : MonoBehaviour
 
     }
 
+    public void BigFont(bool _Value)
+    {
+
+        m_BigFont.SetIsOnWithoutNotify(_Value);
+        PlayerPrefs.SetInt(m_BigFontText, (_Value) ? 1 : 0);
+        ConfigValues.m_BigFont = _Value;
+
+    }
+
 }
 
 public static class ConfigValues
@@ -140,5 +150,6 @@ public static class ConfigValues
     public static bool m_Daltonism;
     public static bool m_Lifebar;
     public static bool m_LessMoviment;
+    public static bool m_BigFont;
 
 }
