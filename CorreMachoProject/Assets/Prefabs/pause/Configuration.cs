@@ -88,7 +88,7 @@ public class Configuration : MonoBehaviour
 
         if (m_Volume.profile.TryGet<ColorAdjustments>(out m_ColorAdjust))
             m_ColorAdjust.postExposure.value = _BrightValue;
-        PlayerPrefs.SetFloat(m_SFXVolumeText, _BrightValue);
+        PlayerPrefs.SetFloat(m_BrightnessText, _BrightValue);
     }
 
     public void Saturation(float _BrightValue)
