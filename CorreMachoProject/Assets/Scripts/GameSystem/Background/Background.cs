@@ -49,6 +49,7 @@ namespace Game.GameSystem
 	{
 		[Header("Move Settings")]
 		[SerializeField, Min(0)] float m_backgroundSpeed;
+		[SerializeField, Min(0)] float m_backgroundSpeedInNoMove;
 		[SerializeField] bool m_dynamicSpeed = true;
 		[SerializeField] bool m_enableSpeedClamp = true;
 		[SerializeField] FloatRange m_speedClamp;
@@ -121,7 +122,7 @@ namespace Game.GameSystem
 			{
 				return playerPoints.GetFinalSpeed(m_backgroundSpeed);
 			}
-			return playerPoints.GetFinalSpeed(m_backgroundSpeed, m_speedClamp.minValue, m_speedClamp.maxValue);
+			return playerPoints.GetFinalSpeed((ConfigValues.m_LessMoviment) ? m_backgroundSpeedInNoMove : m_backgroundSpeed, m_speedClamp.minValue, m_speedClamp.maxValue);
 		}
 
 		float GetFinalSpeed() => GetSpeed() * Time.deltaTime;

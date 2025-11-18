@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_backgrounds:
   - m_backgroundSpeed: 2
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -22,6 +23,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: 1e506ccf4c06e5d4cb2bb7b443b45f5d, type: 3}
   - m_backgroundSpeed: 4
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -30,6 +32,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: 71034293c0ed0d647b0350767e7a5f0f, type: 3}
   - m_backgroundSpeed: 6
+    m_backgroundSpeedInNoMove: 6
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -38,6 +41,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: dd13314c3d5d44941a253917add75114, type: 3}
   - m_backgroundSpeed: 0.3
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:

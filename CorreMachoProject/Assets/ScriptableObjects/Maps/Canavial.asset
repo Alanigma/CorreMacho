@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_backgrounds:
   - m_backgroundSpeed: 2
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -22,6 +23,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: 29e03377e7697cd45af640f9514e9525, type: 3}
   - m_backgroundSpeed: 4
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -30,6 +32,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: 0b4fcdf697e5f474da502b6071c316c4, type: 3}
   - m_backgroundSpeed: 6
+    m_backgroundSpeedInNoMove: 6
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -38,6 +41,7 @@ MonoBehaviour:
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: 984aa59ca8caa304ea69468f1f659196, type: 3}
   - m_backgroundSpeed: 0.3
+    m_backgroundSpeedInNoMove: 0
     m_dynamicSpeed: 1
     m_enableSpeedClamp: 1
     m_speedClamp:
@@ -45,3 +49,7 @@ MonoBehaviour:
       maxValue: 1.5
     m_backgroundSize: {x: 21.94, y: 0}
     m_backgroundSprite: {fileID: 21300000, guid: f7505e640e05b3e48b4e0f4bb07a4f1d, type: 3}
+  m_sun: 0
+  m_sunSprite: {fileID: 0}
+  m_sunPosition: {x: 0, y: 0}
+  m_sunSortOrder: 0

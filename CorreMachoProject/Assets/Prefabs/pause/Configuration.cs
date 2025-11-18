@@ -13,11 +13,11 @@ public class Configuration : MonoBehaviour
 
     public AudioMixer m_AudioMixer;
 
-    public Toggle m_HighContrast, m_Daltonism;
+    public Toggle m_HighContrast, m_Daltonism, m_LessMoviment;
 
     public GameObject m_ConfigurationPanel;
 
-    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness", m_SaturationText = "Saturation";
+    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness", m_SaturationText = "Saturation", m_LessMovimentText = "LessMoviment";
 
     private Volume m_Volume;
     private ColorAdjustments m_ColorAdjust;
@@ -31,13 +31,14 @@ public class Configuration : MonoBehaviour
         MusicVolume(PlayerPrefs.GetFloat(m_MusicVolumeText, 0.5f));
         SFXVolume(PlayerPrefs.GetFloat(m_SFXVolumeText, 0.5f));
         Brightness(PlayerPrefs.GetFloat(m_BrightnessText, 0));
-        Saturation(PlayerPrefs.GetFloat(m_BrightnessText, 0));
+        Saturation(PlayerPrefs.GetFloat(m_SaturationText, 0));
 
         MusicMute(PlayerPrefs.GetInt("MuteMusic", 0) == 1);
         SFXMute(PlayerPrefs.GetInt("MuteSFX", 0) == 1);
 
         HighContrast(PlayerPrefs.GetInt("HighContrast", 0) == 1);
         Daltonism(PlayerPrefs.GetInt("Daltonism", 0) == 1);
+        LessMoviment(PlayerPrefs.GetInt(m_LessMovimentText, 0) == 1);
 
     }
 
@@ -117,7 +118,16 @@ public class Configuration : MonoBehaviour
         ConfigValues.m_Daltonism = _Value;
 
     }
-    
+
+    public void LessMoviment(bool _Value)
+    {
+
+        m_LessMoviment.SetIsOnWithoutNotify(_Value);
+        PlayerPrefs.SetInt(m_LessMovimentText, (_Value) ? 1 : 0);
+        ConfigValues.m_LessMoviment = _Value;
+
+    }
+
 }
 
 public static class ConfigValues
@@ -129,5 +139,6 @@ public static class ConfigValues
     public static bool m_HighContrast;
     public static bool m_Daltonism;
     public static bool m_Lifebar;
+    public static bool m_LessMoviment;
 
 }
