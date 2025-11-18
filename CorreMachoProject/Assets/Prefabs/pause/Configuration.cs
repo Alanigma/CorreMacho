@@ -9,7 +9,7 @@ public class Configuration : MonoBehaviour
 
     public Toggle m_MuteMusic, m_MuteSFX;
 
-    public Slider m_MusicSlider, m_SFXSlider;
+    public Slider m_MusicSlider, m_SFXSlider, m_Saturation;
 
     public AudioMixer m_AudioMixer;
 
@@ -17,7 +17,7 @@ public class Configuration : MonoBehaviour
 
     public GameObject m_ConfigurationPanel;
 
-    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness";
+    private const string m_MusicVolumeText = "MusicVolume", m_SFXVolumeText = "SfxVolume", m_BrightnessText = "Brightness", m_SaturationText = "Saturation";
 
     private Volume m_Volume;
     private ColorAdjustments m_ColorAdjust;
@@ -31,6 +31,7 @@ public class Configuration : MonoBehaviour
         MusicVolume(PlayerPrefs.GetFloat(m_MusicVolumeText, 0.5f));
         SFXVolume(PlayerPrefs.GetFloat(m_SFXVolumeText, 0.5f));
         Brightness(PlayerPrefs.GetFloat(m_BrightnessText, 0));
+        Saturation(PlayerPrefs.GetFloat(m_BrightnessText, 0));
 
         MusicMute(PlayerPrefs.GetInt("MuteMusic", 0) == 1);
         SFXMute(PlayerPrefs.GetInt("MuteSFX", 0) == 1);
@@ -86,6 +87,15 @@ public class Configuration : MonoBehaviour
         if (m_Volume.profile.TryGet<ColorAdjustments>(out m_ColorAdjust))
             m_ColorAdjust.postExposure.value = _BrightValue;
         PlayerPrefs.SetFloat(m_SFXVolumeText, _BrightValue);
+    }
+
+    public void Saturation(float _BrightValue)
+    {
+
+        m_Saturation.SetValueWithoutNotify(_BrightValue);
+        if (m_Volume.profile.TryGet<ColorAdjustments>(out m_ColorAdjust))
+            m_ColorAdjust.saturation.value = _BrightValue;
+        PlayerPrefs.SetFloat(m_SaturationText, _BrightValue);
     }
 
     public void HighContrast(bool _Value) {
