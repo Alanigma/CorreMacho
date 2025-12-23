@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.Rendering;
@@ -22,9 +23,8 @@ public class Configuration : MonoBehaviour
 
     private Volume m_Volume;
     private ColorAdjustments m_ColorAdjust;
-    private ColorCurves m_DaltonismMode;
-    public List<Image> m_ColorBlindnessToggles;
     public Material m_ColorBlindnessMat;
+    public TMP_Dropdown colorBlindnessModeDropdown;
 
     private void Start()
     {
@@ -44,16 +44,14 @@ public class Configuration : MonoBehaviour
         BigFont(PlayerPrefs.GetInt(m_BigFontText, 0) == 1);
 
         ColorBlindness(PlayerPrefs.GetInt("ColorBlindness", 0));
-        m_ColorBlindnessToggles.ForEach((x) => x.enabled = false);
-        m_ColorBlindnessToggles[PlayerPrefs.GetInt("ColorBlindness", 0)].enabled = true;
+        colorBlindnessModeDropdown.SetValueWithoutNotify(PlayerPrefs.GetInt("ColorBlindness", 0));
 
     }
 
     public void ColorBlindness(int _Value)
     {
         PlayerPrefs.SetInt("ColorBlindness", _Value);
-        m_ColorBlindnessToggles.ForEach((x) => x.enabled = false);
-        m_ColorBlindnessToggles[_Value].enabled = true;
+        colorBlindnessModeDropdown.SetValueWithoutNotify(_Value);
         if (_Value == 0)
         {
             m_ColorBlindnessMat.DisableKeyword("_USE");
