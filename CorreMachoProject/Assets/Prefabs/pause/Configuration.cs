@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.Rendering;
@@ -13,7 +14,7 @@ public class Configuration : MonoBehaviour
 
     public AudioMixer m_AudioMixer;
 
-    public Toggle m_HighContrast, m_Daltonism, m_LessMoviment, m_BigFont;
+    public Toggle m_HighContrast, m_LessMoviment, m_BigFont;
 
     public GameObject m_ConfigurationPanel;
 
@@ -22,6 +23,8 @@ public class Configuration : MonoBehaviour
     private Volume m_Volume;
     private ColorAdjustments m_ColorAdjust;
     private ColorCurves m_DaltonismMode;
+    public List<Image> m_ColorBlindnessToggles;
+    public Material m_ColorBlindnessMat;
 
     private void Start()
     {
@@ -37,10 +40,48 @@ public class Configuration : MonoBehaviour
         SFXMute(PlayerPrefs.GetInt("MuteSFX", 0) == 1);
 
         HighContrast(PlayerPrefs.GetInt("HighContrast", 0) == 1);
-        Daltonism(PlayerPrefs.GetInt("Daltonism", 0) == 1);
         LessMoviment(PlayerPrefs.GetInt(m_LessMovimentText, 0) == 1);
         BigFont(PlayerPrefs.GetInt(m_BigFontText, 0) == 1);
 
+        ColorBlindness(PlayerPrefs.GetInt("ColorBlindness", 0));
+        m_ColorBlindnessToggles.ForEach((x) => x.enabled = false);
+        m_ColorBlindnessToggles[PlayerPrefs.GetInt("ColorBlindness", 0)].enabled = true;
+
+    }
+
+    public void ColorBlindness(int _Value)
+    {
+        PlayerPrefs.SetInt("ColorBlindness", _Value);
+        m_ColorBlindnessToggles.ForEach((x) => x.enabled = false);
+        m_ColorBlindnessToggles[_Value].enabled = true;
+        if (_Value == 0)
+        {
+            m_ColorBlindnessMat.DisableKeyword("_USE");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_PROTANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_DEUTERANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_TRITANOPIA");
+        }
+        else if (_Value == 1)
+        {
+            m_ColorBlindnessMat.EnableKeyword("_USE");
+            m_ColorBlindnessMat.EnableKeyword("_MODE_PROTANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_DEUTERANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_TRITANOPIA");
+        }
+        else if (_Value == 2)
+        {
+            m_ColorBlindnessMat.EnableKeyword("_USE");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_PROTANOPIA");
+            m_ColorBlindnessMat.EnableKeyword("_MODE_DEUTERANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_TRITANOPIA");
+        }
+        else if (_Value == 3)
+        {
+            m_ColorBlindnessMat.EnableKeyword("_USE");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_PROTANOPIA");
+            m_ColorBlindnessMat.DisableKeyword("_MODE_DEUTERANOPIA");
+            m_ColorBlindnessMat.EnableKeyword("_MODE_TRITANOPIA");
+        }
     }
 
     private float LinearToDecibel(float linearValue)
@@ -110,16 +151,6 @@ public class Configuration : MonoBehaviour
 
     }
 
-    public void Daltonism(bool _Value) {
-
-        m_Daltonism.SetIsOnWithoutNotify(_Value);
-        if (m_Volume.profile.TryGet<ColorCurves>(out m_DaltonismMode))
-            m_DaltonismMode.active = _Value;
-        PlayerPrefs.SetInt("Daltonism", (_Value) ? 1 : 0);
-        ConfigValues.m_Daltonism = _Value;
-
-    }
-
     public void LessMoviment(bool _Value)
     {
 
@@ -147,7 +178,6 @@ public static class ConfigValues
     public static bool m_AutoShoot;
     public static bool m_DamageText;
     public static bool m_HighContrast;
-    public static bool m_Daltonism;
     public static bool m_Lifebar;
     public static bool m_LessMoviment;
     public static bool m_BigFont;
