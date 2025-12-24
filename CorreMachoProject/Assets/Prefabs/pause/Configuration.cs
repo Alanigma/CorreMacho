@@ -11,7 +11,7 @@ public class Configuration : MonoBehaviour
 
     public Toggle m_MuteMusic, m_MuteSFX;
 
-    public Slider m_MusicSlider, m_SFXSlider, m_Saturation;
+    public Slider m_MusicSlider, m_SFXSlider, m_Bright, m_Saturation;
 
     public AudioMixer m_AudioMixer;
 
@@ -125,6 +125,7 @@ public class Configuration : MonoBehaviour
 
     public void Brightness(float _BrightValue) {
 
+        m_Bright.SetValueWithoutNotify(_BrightValue);
         if (m_Volume.profile.TryGet<ColorAdjustments>(out m_ColorAdjust))
             m_ColorAdjust.postExposure.value = _BrightValue;
         PlayerPrefs.SetFloat(m_BrightnessText, _BrightValue);

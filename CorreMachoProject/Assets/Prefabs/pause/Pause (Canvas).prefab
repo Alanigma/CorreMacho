@@ -1183,7 +1183,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000018119812}
+  m_AnchoredPosition: {x: 0, y: -0.000011444092}
   m_SizeDelta: {x: 0, y: 40}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!1 &1433883941535741843
@@ -1633,6 +1633,7 @@ MonoBehaviour:
   m_MuteSFX: {fileID: 6951174219626659777}
   m_MusicSlider: {fileID: 7296142661561871463}
   m_SFXSlider: {fileID: 6824442750636055228}
+  m_Bright: {fileID: 8102880863008710507}
   m_Saturation: {fileID: 2976534162570244954}
   m_AudioMixer: {fileID: 24100000, guid: 170ed6de2d5d513469841bf5911fdf8b, type: 2}
   m_HighContrast: {fileID: 4910013544149012676}
@@ -2765,7 +2766,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 795780962004772884}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.8
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
