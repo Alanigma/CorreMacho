@@ -740,10 +740,14 @@ PrefabInstance:
     - target: {fileID: 5067639986857493432, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1792063148634932048, guid: f18cd5b2db0aaa14eafaa17cdca16c50, type: 3}
+      objectReference: {fileID: 21300000, guid: bcff64b3548a5494091014bb2bf519d4, type: 3}
     - target: {fileID: 5067639986857493432, guid: 8acca94c91fed604d814091db753ca86, type: 3}
       propertyPath: m_RaycastTarget
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5067639986857493432, guid: 8acca94c91fed604d814091db753ca86, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
